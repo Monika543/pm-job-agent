@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-06-11T12:38:27.236377+00:00",
-  "count": 38,
+  "generated_at": "2026-06-11T18:12:13.575479+00:00",
+  "count": 40,
   "jobs": [
+    {
+      "id": "30b53ee8de9f9fc9",
+      "title": "Product Manager, Ecosystem Risk",
+      "company": "Stripe",
+      "location": "New-York, Atlanta, Remote, Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=7984866",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-11",
+      "tags": [],
+      "first_seen": "2026-06-11T18:12:13.575479+00:00"
+    },
+    {
+      "id": "2605fb919406dca8",
+      "title": "Product Manager II - Growth",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/e4aba1e5-ef86-4c50-8985-2e46ff688354",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-02-27",
+      "tags": [],
+      "first_seen": "2026-06-11T18:12:13.575479+00:00"
+    },
     {
       "id": "6067c25819130cd2",
       "title": "Product Manager",
@@ -15,18 +39,6 @@
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
     },
     {
-      "id": "2fa86b180ba366d9",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-05",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "d5fb36eee0263099",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -35,6 +47,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-03",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "2fa86b180ba366d9",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-05",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
