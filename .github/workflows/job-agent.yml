@@ -1,0 +1,36 @@
+name: PM Job Agent
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"   # every 3 hours
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Run job agent
+        run: python job_agent.py
+
+      - name: Commit updated jobs.json
+        run: |
+          git config user.name "job-agent"
+          git config user.email "actions@github.com"
+          git add data/jobs.json
+          if git diff --cached --quiet; then
+            echo "No new jobs this run."
+          else
+            git commit -m "Update jobs $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
