@@ -1,16 +1,28 @@
 {
-  "generated_at": "2026-06-11T09:00:19.450853+00:00",
-  "count": 37,
+  "generated_at": "2026-06-11T12:38:27.236377+00:00",
+  "count": 38,
   "jobs": [
     {
-      "id": "699cf715b2bde9bb",
+      "id": "6067c25819130cd2",
+      "title": "Product Manager",
+      "company": "KredX",
+      "location": "Bengaluru, in",
+      "url": "https://jobs.smartrecruiters.com/kredx/744000131627550",
+      "source": "SmartRecruiters",
+      "salary": null,
+      "posted": "2026-06-11",
+      "tags": [],
+      "first_seen": "2026-06-11T12:38:27.236377+00:00"
+    },
+    {
+      "id": "2fa86b180ba366d9",
       "title": "Product Manager II",
       "company": "Razorpay",
       "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4684210005",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-05-20",
+      "posted": "2026-06-05",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -27,14 +39,14 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "2fa86b180ba366d9",
+      "id": "699cf715b2bde9bb",
       "title": "Product Manager II",
       "company": "Razorpay",
       "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4684210005",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-05",
+      "posted": "2026-05-20",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -346,7 +358,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-10",
+      "posted": "2026-06-11",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
