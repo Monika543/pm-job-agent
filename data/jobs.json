@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-06-12T12:13:15.291039+00:00",
-  "count": 41,
+  "generated_at": "2026-06-12T17:33:55.970190+00:00",
+  "count": 42,
   "jobs": [
+    {
+      "id": "f839253f82a278c8",
+      "title": "Product Manager, Link - Consumer Product",
+      "company": "Stripe",
+      "location": "SF, SEA, NY, Remote-US",
+      "url": "https://stripe.com/jobs/search?gh_jid=7392697",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-12",
+      "tags": [],
+      "first_seen": "2026-06-12T17:33:55.970190+00:00"
+    },
     {
       "id": "e4d92171e7e075cf",
       "title": "Senior Product Manager, CX Automation",
@@ -207,18 +219,6 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "4d283e755d93735e",
-      "title": "Product Manager, Link Consumer Product",
-      "company": "Stripe",
-      "location": "SF, SEA, NY, Remote-US",
-      "url": "https://stripe.com/jobs/search?gh_jid=7392697",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-09",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "cae06ffeaa3ccd5d",
       "title": "Product Manager, Payments",
       "company": "Stripe",
@@ -394,7 +394,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-11",
+      "posted": "2026-06-12",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -479,6 +479,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-05-11",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "4d283e755d93735e",
+      "title": "Product Manager, Link Consumer Product",
+      "company": "Stripe",
+      "location": "SF, SEA, NY, Remote-US",
+      "url": "https://stripe.com/jobs/search?gh_jid=7392697",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-09",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
