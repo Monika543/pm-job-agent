@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-06-12T19:59:13.525383+00:00",
-  "count": 42,
+  "generated_at": "2026-06-12T22:20:22.367606+00:00",
+  "count": 44,
   "jobs": [
+    {
+      "id": "d14acc67f46556aa",
+      "title": "Group Product Manager, Compliance Automation",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/7701642?gh_jid=7701642",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-12",
+      "tags": [],
+      "first_seen": "2026-06-12T22:20:22.367606+00:00"
+    },
+    {
+      "id": "b207257836d9dda1",
+      "title": "Group Product Manager, Financial Engineering",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/7789404?gh_jid=7789404",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-12",
+      "tags": [],
+      "first_seen": "2026-06-12T22:20:22.367606+00:00"
+    },
     {
       "id": "f839253f82a278c8",
       "title": "Product Manager, Link - Consumer Product",
@@ -75,18 +99,6 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "699cf715b2bde9bb",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4684210005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-05-20",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "2fa86b180ba366d9",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -95,6 +107,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-05",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "699cf715b2bde9bb",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4684210005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-05-20",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
