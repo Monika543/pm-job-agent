@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-13T19:14:03.129932+00:00",
-  "count": 44,
+  "generated_at": "2026-06-13T21:57:49.656571+00:00",
+  "count": 45,
   "jobs": [
+    {
+      "id": "05af8e9a08bf548e",
+      "title": "Product Manager",
+      "company": "PadSplit",
+      "location": "Atlanta, Atlanta, Georgia, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-padsplit-1133393",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-06-11",
+      "tags": [
+        "product manager",
+        "exec",
+        "design"
+      ],
+      "first_seen": "2026-06-13T21:57:49.656571+00:00"
+    },
     {
       "id": "d14acc67f46556aa",
       "title": "Group Product Manager, Compliance Automation",
@@ -99,18 +115,6 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "2fa86b180ba366d9",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-05",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "699cf715b2bde9bb",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -119,6 +123,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-05-20",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "2fa86b180ba366d9",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-05",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
