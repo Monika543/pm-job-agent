@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-06-15T20:48:41.334696+00:00",
-  "count": 46,
+  "generated_at": "2026-06-15T22:59:00.739646+00:00",
+  "count": 47,
   "jobs": [
+    {
+      "id": "6725ae534edeae47",
+      "title": "Staff Product Manager, CX Automation",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8001275?gh_jid=8001275",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-15",
+      "tags": [],
+      "first_seen": "2026-06-15T22:59:00.739646+00:00"
+    },
     {
       "id": "fe509e74950ff65a",
       "title": "Staff Product Manager, Growth",
@@ -115,14 +127,14 @@
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
     },
     {
-      "id": "d5fb36eee0263099",
+      "id": "699cf715b2bde9bb",
       "title": "Product Manager II",
       "company": "Razorpay",
       "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701363005",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4684210005",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-03",
+      "posted": "2026-05-20",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -139,14 +151,14 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "699cf715b2bde9bb",
+      "id": "d5fb36eee0263099",
       "title": "Product Manager II",
       "company": "Razorpay",
       "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4684210005",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701363005",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-05-20",
+      "posted": "2026-06-03",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
