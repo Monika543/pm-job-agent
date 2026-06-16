@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T13:25:15.199984+00:00",
+  "generated_at": "2026-06-16T18:53:05.913584+00:00",
   "count": 48,
   "jobs": [
     {
@@ -151,18 +151,6 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "2fa86b180ba366d9",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-05",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "699cf715b2bde9bb",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -171,6 +159,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-05-20",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "2fa86b180ba366d9",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-05",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -427,18 +427,6 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "ed525cab32ebb310",
-      "title": "Senior Director of Product, Ads Platform",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746311",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-04",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "d03bb06ec3dc66a9",
       "title": "Senior Group Product Manager, Advertiser Optimization (Ads Marketplace)",
       "company": "Reddit",
@@ -555,6 +543,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-05-11",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "ed525cab32ebb310",
+      "title": "Senior Director of Product, Ads Platform",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746311",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-04",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
