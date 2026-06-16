@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-06-16T02:59:45.618684+00:00",
-  "count": 47,
+  "generated_at": "2026-06-16T08:50:25.446669+00:00",
+  "count": 48,
   "jobs": [
+    {
+      "id": "42692cb79442766c",
+      "title": "Head of Product, Payroll",
+      "company": "Gusto",
+      "location": "Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7083259",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-16",
+      "tags": [],
+      "first_seen": "2026-06-16T08:50:25.446669+00:00"
+    },
     {
       "id": "6725ae534edeae47",
       "title": "Staff Product Manager, CX Automation",
@@ -127,6 +139,18 @@
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
     },
     {
+      "id": "d5fb36eee0263099",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701363005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-03",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
       "id": "699cf715b2bde9bb",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -147,18 +171,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-05",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "d5fb36eee0263099",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701363005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-03",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -194,7 +206,7 @@
       "url": "https://job-boards.greenhouse.io/gusto/jobs/7235291",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-05-06",
+      "posted": "2026-06-16",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -458,7 +470,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-15",
+      "posted": "2026-06-16",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
