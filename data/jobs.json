@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-16T22:50:15.189506+00:00",
-  "count": 48,
+  "generated_at": "2026-06-17T02:56:53.404042+00:00",
+  "count": 49,
   "jobs": [
+    {
+      "id": "cd2d755d95288274",
+      "title": "Senior Product Manager",
+      "company": "Distru",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-distru-1133455",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-06-16",
+      "tags": [
+        "product manager",
+        "exec",
+        "design"
+      ],
+      "first_seen": "2026-06-17T02:56:53.404042+00:00"
+    },
     {
       "id": "42692cb79442766c",
       "title": "Head of Product, Payroll",
