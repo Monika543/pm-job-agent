@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-18T17:56:45.662268+00:00",
-  "count": 50,
+  "generated_at": "2026-06-18T20:22:32.399127+00:00",
+  "count": 51,
   "jobs": [
+    {
+      "id": "2b39180154e7e18a",
+      "title": "Product Manager",
+      "company": "Ripjar",
+      "location": "London, London, England, United Kingdom",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-ripjar-1133665",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-06-16",
+      "tags": [
+        "analyst",
+        "python",
+        "education"
+      ],
+      "first_seen": "2026-06-18T20:22:32.399127+00:00"
+    },
     {
       "id": "a5bcd3c11a11bb4d",
       "title": "Product Manager, Link - Consumer",
@@ -167,18 +183,6 @@
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
     },
     {
-      "id": "d5fb36eee0263099",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701363005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-03",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "2fa86b180ba366d9",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -187,6 +191,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-05",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "d5fb36eee0263099",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701363005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-03",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
