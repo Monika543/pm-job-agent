@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T12:18:51.660167+00:00",
+  "generated_at": "2026-06-18T17:56:45.662268+00:00",
   "count": 50,
   "jobs": [
     {
@@ -38,7 +38,7 @@
       "url": "https://job-boards.greenhouse.io/gusto/jobs/7083259",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-16",
+      "posted": "2026-06-18",
       "tags": [],
       "first_seen": "2026-06-16T08:50:25.446669+00:00"
     },
@@ -50,7 +50,7 @@
       "url": "https://www.coinbase.com/careers/positions/8001275?gh_jid=8001275",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-15",
+      "posted": "2026-06-18",
       "tags": [],
       "first_seen": "2026-06-15T22:59:00.739646+00:00"
     },
@@ -167,18 +167,6 @@
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
     },
     {
-      "id": "2fa86b180ba366d9",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-05",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "d5fb36eee0263099",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -187,6 +175,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-03",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "2fa86b180ba366d9",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-05",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -211,18 +211,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-03",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "308f39940d1e1fb0",
-      "title": "Principal Product Manager, Tax Platform",
-      "company": "Gusto",
-      "location": "Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/7235291",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-16",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -559,6 +547,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-05-11",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "308f39940d1e1fb0",
+      "title": "Principal Product Manager, Tax Platform",
+      "company": "Gusto",
+      "location": "Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote",
+      "url": "https://job-boards.greenhouse.io/gusto/jobs/7235291",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-16",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
