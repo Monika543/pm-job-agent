@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-06-19T21:59:36.629435+00:00",
-  "count": 53,
+  "generated_at": "2026-06-20T02:41:38.244448+00:00",
+  "count": 54,
   "jobs": [
+    {
+      "id": "69315883598b1f9d",
+      "title": "Group Product Manager, Core Infrastructure & Reliability",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/7997785?gh_jid=7997785",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-19",
+      "tags": [],
+      "first_seen": "2026-06-20T02:41:38.244448+00:00"
+    },
     {
       "id": "aa2c3a1d54ba2d07",
       "title": "Group Product Manager, Developer Infrastructure",
@@ -255,18 +267,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-03",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "fabbe4d537c78fc4",
-      "title": "Group Product Manager, Core Infra and Reliability",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/7997785?gh_jid=7997785",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-18",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -579,6 +579,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-05-11",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "fabbe4d537c78fc4",
+      "title": "Group Product Manager, Core Infra and Reliability",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/7997785?gh_jid=7997785",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-18",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
