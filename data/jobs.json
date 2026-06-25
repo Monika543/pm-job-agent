@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-25T14:09:53.861461+00:00",
-  "count": 58,
+  "generated_at": "2026-06-25T17:05:48.797011+00:00",
+  "count": 59,
   "jobs": [
+    {
+      "id": "d1197b12b818d16c",
+      "title": "Principal Product Manager Acquisition Products",
+      "company": "ButterflyMX",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-acquisition-products-butterflymx-1134023",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-06-24",
+      "tags": [
+        "product manager",
+        "exec",
+        "design"
+      ],
+      "first_seen": "2026-06-25T17:05:48.797011+00:00"
+    },
     {
       "id": "17c1ae6f9668ee7c",
       "title": "Associate Product Manager",
@@ -154,7 +170,7 @@
       "url": "https://job-boards.greenhouse.io/gusto/jobs/7083259",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-18",
+      "posted": "2026-06-25",
       "tags": [],
       "first_seen": "2026-06-16T08:50:25.446669+00:00"
     },
@@ -283,18 +299,6 @@
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
     },
     {
-      "id": "d5fb36eee0263099",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701363005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-03",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "2fa86b180ba366d9",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -303,6 +307,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-05",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "d5fb36eee0263099",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701363005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-03",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
