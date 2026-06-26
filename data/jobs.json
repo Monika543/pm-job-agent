@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-06-26T06:47:39.892283+00:00",
-  "count": 59,
+  "generated_at": "2026-06-26T11:40:33.813977+00:00",
+  "count": 60,
   "jobs": [
+    {
+      "id": "ff88e8768a44e0ce",
+      "title": "Product manager",
+      "company": "DU\u00c4\u0092AST",
+      "location": "Nirsa,",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-dueast-1134144",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-06-24",
+      "tags": [
+        "project manager",
+        "exec",
+        "product manager"
+      ],
+      "first_seen": "2026-06-26T11:40:33.813977+00:00"
+    },
     {
       "id": "d1197b12b818d16c",
       "title": "Principal Product Manager Acquisition Products",
@@ -222,7 +238,7 @@
       "url": "https://www.coinbase.com/careers/positions/7701642?gh_jid=7701642",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-18",
+      "posted": "2026-06-26",
       "tags": [],
       "first_seen": "2026-06-12T22:20:22.367606+00:00"
     },
@@ -319,18 +335,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-03",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "673d9403b09494f0",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699228005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-22",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -655,6 +659,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-05-11",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "673d9403b09494f0",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699228005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-22",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
