@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T06:25:15.544421+00:00",
+  "generated_at": "2026-06-27T10:54:13.851902+00:00",
   "count": 60,
   "jobs": [
     {
@@ -35,6 +35,18 @@
       "first_seen": "2026-06-25T17:05:48.797011+00:00"
     },
     {
+      "id": "7c4064f7f010d50b",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4708967005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-24",
+      "tags": [],
+      "first_seen": "2026-06-24T14:11:53.677988+00:00"
+    },
+    {
       "id": "17c1ae6f9668ee7c",
       "title": "Associate Product Manager",
       "company": "CareTalk Health",
@@ -48,18 +60,6 @@
         "crypto",
         "customer support"
       ],
-      "first_seen": "2026-06-24T14:11:53.677988+00:00"
-    },
-    {
-      "id": "7c4064f7f010d50b",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4708967005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-24",
-      "tags": [],
       "first_seen": "2026-06-24T14:11:53.677988+00:00"
     },
     {
