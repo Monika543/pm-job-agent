@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T17:30:21.168314+00:00",
+  "generated_at": "2026-06-29T19:47:07.592091+00:00",
   "count": 61,
   "jobs": [
     {
@@ -415,18 +415,6 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "1b7b684556b92342",
-      "title": "Product Manager, Infrastructure",
-      "company": "Stripe",
-      "location": "Remote in the US",
-      "url": "https://stripe.com/jobs/search?gh_jid=6651889",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-26",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "cae06ffeaa3ccd5d",
       "title": "Product Manager, Payments",
       "company": "Stripe",
@@ -675,6 +663,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-05-11",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "1b7b684556b92342",
+      "title": "Product Manager, Infrastructure",
+      "company": "Stripe",
+      "location": "Remote in the US",
+      "url": "https://stripe.com/jobs/search?gh_jid=6651889",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-26",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
