@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T22:05:25.808349+00:00",
+  "generated_at": "2026-06-30T02:40:34.103394+00:00",
   "count": 61,
   "jobs": [
     {
@@ -535,18 +535,6 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "5db08020a9a7ecf1",
-      "title": "Staff Product Manager, AI Agent Orchestration",
-      "company": "GitLab",
-      "location": "Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8536109002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-05",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "d03bb06ec3dc66a9",
       "title": "Senior Group Product Manager, Advertiser Optimization (Ads Marketplace)",
       "company": "Reddit",
@@ -663,6 +651,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-05-11",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "5db08020a9a7ecf1",
+      "title": "Staff Product Manager, AI Agent Orchestration",
+      "company": "GitLab",
+      "location": "Remote, US",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8536109002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-05",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
