@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-01T19:42:45.313927+00:00",
-  "count": 64,
+  "generated_at": "2026-07-01T22:13:59.565348+00:00",
+  "count": 65,
   "jobs": [
+    {
+      "id": "57355b528a55358c",
+      "title": "Staff Product Manager, Enterprise",
+      "company": "Stripe",
+      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-01",
+      "tags": [],
+      "first_seen": "2026-07-01T22:13:59.565348+00:00"
+    },
     {
       "id": "8f371869c847eb3a",
       "title": "Product Manager II - i18n",
@@ -499,18 +511,6 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "c3dfeb9a0a573a18",
-      "title": "Staff Product Manager, Enterprise (Industries)",
-      "company": "Stripe",
-      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-26",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "6e90c0d7c1d08637",
       "title": "Staff Product Manager, Global Expansion",
       "company": "Stripe",
@@ -687,6 +687,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-05-11",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "c3dfeb9a0a573a18",
+      "title": "Staff Product Manager, Enterprise (Industries)",
+      "company": "Stripe",
+      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-26",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
