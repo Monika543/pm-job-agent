@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-01T07:06:03.283625+00:00",
-  "count": 63,
+  "generated_at": "2026-07-01T11:54:33.727121+00:00",
+  "count": 64,
   "jobs": [
+    {
+      "id": "8f371869c847eb3a",
+      "title": "Product Manager II - i18n",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4711187005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-01",
+      "tags": [],
+      "first_seen": "2026-07-01T11:54:33.727121+00:00"
+    },
     {
       "id": "f2589a6602315f6e",
       "title": "Product Manager II",
@@ -82,7 +94,7 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4708967005",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-24",
+      "posted": "2026-07-01",
       "tags": [],
       "first_seen": "2026-06-24T14:11:53.677988+00:00"
     },
@@ -355,18 +367,6 @@
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
     },
     {
-      "id": "2fa86b180ba366d9",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-05",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "d5fb36eee0263099",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -375,6 +375,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-03",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "2fa86b180ba366d9",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-05",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
