@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-02T19:13:40.799084+00:00",
-  "count": 67,
+  "generated_at": "2026-07-02T22:01:00.558970+00:00",
+  "count": 68,
   "jobs": [
+    {
+      "id": "9ecc631cc7e3e713",
+      "title": "Principal Product Manager, Engineering Intelligence & Insights",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, US",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597813002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-02",
+      "tags": [],
+      "first_seen": "2026-07-02T22:01:00.558970+00:00"
+    },
     {
       "id": "73a61a92f539eb81",
       "title": "Product Manager l - Growth",
@@ -274,7 +286,7 @@
       "url": "https://job-boards.greenhouse.io/gusto/jobs/7083259",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-25",
+      "posted": "2026-07-02",
       "tags": [],
       "first_seen": "2026-06-16T08:50:25.446669+00:00"
     },
