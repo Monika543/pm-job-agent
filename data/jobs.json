@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-02T02:36:29.380930+00:00",
-  "count": 65,
+  "generated_at": "2026-07-02T06:33:56.905866+00:00",
+  "count": 66,
   "jobs": [
+    {
+      "id": "b75d5f4aa1cbfe6c",
+      "title": "Agentic Product Manager",
+      "company": "Netomi",
+      "location": "Gurugram",
+      "url": "https://jobs.lever.co/netomi/a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-07-02",
+      "tags": [],
+      "first_seen": "2026-07-02T06:33:56.905866+00:00"
+    },
     {
       "id": "57355b528a55358c",
       "title": "Staff Product Manager, Enterprise",
