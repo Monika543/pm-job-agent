@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-02T06:33:56.905866+00:00",
-  "count": 66,
+  "generated_at": "2026-07-02T11:27:59.186645+00:00",
+  "count": 67,
   "jobs": [
+    {
+      "id": "73a61a92f539eb81",
+      "title": "Product Manager l - Growth",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/ba7f74f1-2448-43f1-bf1f-93949673abb4",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-06-01",
+      "tags": [],
+      "first_seen": "2026-07-02T11:27:59.186645+00:00"
+    },
     {
       "id": "b75d5f4aa1cbfe6c",
       "title": "Agentic Product Manager",
@@ -391,18 +403,6 @@
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
     },
     {
-      "id": "d5fb36eee0263099",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701363005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-03",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "2fa86b180ba366d9",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -411,6 +411,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-05",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "d5fb36eee0263099",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701363005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-03",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
