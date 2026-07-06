@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T02:30:21.437541+00:00",
+  "generated_at": "2026-07-06T07:04:49.226398+00:00",
   "count": 69,
   "jobs": [
     {
@@ -431,18 +431,6 @@
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
     },
     {
-      "id": "2fa86b180ba366d9",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-05",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "d5fb36eee0263099",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -654,7 +642,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-05",
+      "posted": "2026-07-06",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -727,6 +715,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-03-06",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "2fa86b180ba366d9",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4671921005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-05",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
