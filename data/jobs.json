@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-06T19:45:46.587524+00:00",
-  "count": 69,
+  "generated_at": "2026-07-06T22:08:52.686449+00:00",
+  "count": 70,
   "jobs": [
+    {
+      "id": "461ee56e36a5bc3b",
+      "title": "Senior Product Manager, Help Center (CX Automation)",
+      "company": "Coinbase",
+      "location": "Remote - India",
+      "url": "https://www.coinbase.com/careers/positions/8031208?gh_jid=8031208",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-06",
+      "tags": [],
+      "first_seen": "2026-07-06T22:08:52.686449+00:00"
+    },
     {
       "id": "8bb4acd5f7b797d2",
       "title": "Product Manager Solar Inverters",
