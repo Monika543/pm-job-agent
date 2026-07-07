@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-07T06:38:56.070336+00:00",
-  "count": 70,
+  "generated_at": "2026-07-07T11:40:20.189145+00:00",
+  "count": 71,
   "jobs": [
+    {
+      "id": "e17f18bedde3fe29",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4712108005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-07",
+      "tags": [],
+      "first_seen": "2026-07-07T11:40:20.189145+00:00"
+    },
     {
       "id": "461ee56e36a5bc3b",
       "title": "Senior Product Manager, Help Center (CX Automation)",
