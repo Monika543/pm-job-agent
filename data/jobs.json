@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-07T19:44:48.253869+00:00",
-  "count": 71,
+  "generated_at": "2026-07-07T22:06:33.287772+00:00",
+  "count": 72,
   "jobs": [
+    {
+      "id": "99165e362a7c198f",
+      "title": "Senior Product Manager, Plan to Code",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, US",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597805002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-07",
+      "tags": [],
+      "first_seen": "2026-07-07T22:06:33.287772+00:00"
+    },
     {
       "id": "e17f18bedde3fe29",
       "title": "Product Manager II",
@@ -635,6 +647,18 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
+      "id": "ed525cab32ebb310",
+      "title": "Senior Director of Product, Ads Platform",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746311",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-07",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
       "id": "d03bb06ec3dc66a9",
       "title": "Senior Group Product Manager, Advertiser Optimization (Ads Marketplace)",
       "company": "Reddit",
@@ -859,18 +883,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-05-20",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "ed525cab32ebb310",
-      "title": "Senior Director of Product, Ads Platform",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746311",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-04",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
