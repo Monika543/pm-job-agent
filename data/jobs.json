@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T22:06:33.287772+00:00",
+  "generated_at": "2026-07-08T01:59:49.105283+00:00",
   "count": 72,
   "jobs": [
     {
@@ -623,18 +623,6 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "c572fafc57d1d6f6",
-      "title": "Principal Product Manager, Security - GTM",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8489126002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-05",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "f9c6729f61cc65d4",
       "title": "Senior Product Manager, AI Platform Management",
       "company": "GitLab",
@@ -763,6 +751,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-03-06",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "c572fafc57d1d6f6",
+      "title": "Principal Product Manager, Security - GTM",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, US",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8489126002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-05",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
