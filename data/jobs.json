@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-09T11:54:15.001284+00:00",
-  "count": 73,
+  "generated_at": "2026-07-09T14:38:43.465252+00:00",
+  "count": 74,
   "jobs": [
+    {
+      "id": "9b7d222e70a569e4",
+      "title": "Product Manager ( Data Platforms)",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/3279b339-aad6-4522-80d4-2587693651cb",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2025-09-15",
+      "tags": [],
+      "first_seen": "2026-07-09T14:38:43.465252+00:00"
+    },
     {
       "id": "2bac10ce10226653",
       "title": "Staff Product Manager,  RevOps & Finance Systems",
@@ -678,7 +690,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-08",
+      "posted": "2026-07-09",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
