@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T02:12:14.668131+00:00",
+  "generated_at": "2026-07-09T06:36:37.955738+00:00",
   "count": 73,
   "jobs": [
     {
@@ -479,18 +479,6 @@
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
     },
     {
-      "id": "d5fb36eee0263099",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701363005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-03",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "f703c185cc7ed3cd",
       "title": "Senior Product Manager (Growth)",
       "company": "Razorpay",
@@ -763,6 +751,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-03-06",
+      "tags": [],
+      "first_seen": "2026-06-11T09:00:19.450853+00:00"
+    },
+    {
+      "id": "d5fb36eee0263099",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4701363005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-06-03",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
