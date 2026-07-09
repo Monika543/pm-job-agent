@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-09T19:26:21.122695+00:00",
-  "count": 74,
+  "generated_at": "2026-07-09T22:15:19.578629+00:00",
+  "count": 75,
   "jobs": [
+    {
+      "id": "6a4a08d14c07374c",
+      "title": "Staff Product Manager, ML Foundations and GenAI",
+      "company": "Stripe",
+      "location": "Seattle, San Francisco, New York, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7517535",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-09",
+      "tags": [],
+      "first_seen": "2026-07-09T22:15:19.578629+00:00"
+    },
     {
       "id": "9b7d222e70a569e4",
       "title": "Product Manager ( Data Platforms)",
