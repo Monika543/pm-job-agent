@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T15:47:00.192607+00:00",
-  "count": 61,
+  "generated_at": "2026-07-11T18:50:15.175003+00:00",
+  "count": 60,
   "jobs": [
     {
       "id": "6a4a08d14c07374c",
@@ -475,18 +475,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-26",
-      "tags": [],
-      "first_seen": "2026-06-11T18:12:13.575479+00:00"
-    },
-    {
-      "id": "2605fb919406dca8",
-      "title": "Product Manager II - Growth",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/e4aba1e5-ef86-4c50-8985-2e46ff688354",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-02-27",
       "tags": [],
       "first_seen": "2026-06-11T18:12:13.575479+00:00"
     },
