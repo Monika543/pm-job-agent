@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T15:52:35.877830+00:00",
-  "count": 59,
+  "generated_at": "2026-07-12T18:54:47.512963+00:00",
+  "count": 58,
   "jobs": [
     {
       "id": "6a4a08d14c07374c",
@@ -441,18 +441,6 @@
       "posted": "2026-06-26",
       "tags": [],
       "first_seen": "2026-06-12T22:20:22.367606+00:00"
-    },
-    {
-      "id": "f839253f82a278c8",
-      "title": "Product Manager, Link - Consumer Product",
-      "company": "Stripe",
-      "location": "SF, SEA, NY, Remote-US",
-      "url": "https://stripe.com/jobs/search?gh_jid=7392697",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-16",
-      "tags": [],
-      "first_seen": "2026-06-12T17:33:55.970190+00:00"
     },
     {
       "id": "30b53ee8de9f9fc9",
