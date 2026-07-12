@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T21:41:32.533810+00:00",
-  "count": 60,
+  "generated_at": "2026-07-12T02:01:24.913014+00:00",
+  "count": 59,
   "jobs": [
     {
       "id": "6a4a08d14c07374c",
@@ -453,18 +453,6 @@
       "posted": "2026-06-16",
       "tags": [],
       "first_seen": "2026-06-12T17:33:55.970190+00:00"
-    },
-    {
-      "id": "e4d92171e7e075cf",
-      "title": "Senior Product Manager, CX Automation",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8001275?gh_jid=8001275",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-06-11",
-      "tags": [],
-      "first_seen": "2026-06-11T22:48:01.476406+00:00"
     },
     {
       "id": "30b53ee8de9f9fc9",
