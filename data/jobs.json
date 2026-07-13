@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-13T19:15:32.956715+00:00",
-  "count": 58,
+  "generated_at": "2026-07-13T21:48:50.050931+00:00",
+  "count": 59,
   "jobs": [
+    {
+      "id": "7de7bb1ad99e3a71",
+      "title": "Product Manager II - AI",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/de6cf222-9dd6-4c8b-ab6f-45fa1b9b4c62",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-04-20",
+      "tags": [],
+      "first_seen": "2026-07-13T21:48:50.050931+00:00"
+    },
     {
       "id": "6a4a08d14c07374c",
       "title": "Staff Product Manager, ML Foundations and GenAI",
