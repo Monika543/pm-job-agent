@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-14T01:49:26.919973+00:00",
-  "count": 58,
+  "generated_at": "2026-07-14T05:22:39.465802+00:00",
+  "count": 59,
   "jobs": [
+    {
+      "id": "eb359234ffd545a1",
+      "title": "Group Product Manager, Compliance Agent Experience",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8060662?gh_jid=8060662",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-14",
+      "tags": [],
+      "first_seen": "2026-07-14T05:22:39.465802+00:00"
+    },
     {
       "id": "7de7bb1ad99e3a71",
       "title": "Product Manager II - AI",
