@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T21:48:50.050931+00:00",
-  "count": 59,
+  "generated_at": "2026-07-14T01:49:26.919973+00:00",
+  "count": 58,
   "jobs": [
     {
       "id": "7de7bb1ad99e3a71",
@@ -413,22 +413,6 @@
       "posted": "2026-06-22",
       "tags": [],
       "first_seen": "2026-06-15T17:04:05.707322+00:00"
-    },
-    {
-      "id": "05af8e9a08bf548e",
-      "title": "Product Manager",
-      "company": "PadSplit",
-      "location": "Atlanta, Atlanta, Georgia, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-padsplit-1133393",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-06-11",
-      "tags": [
-        "product manager",
-        "exec",
-        "design"
-      ],
-      "first_seen": "2026-06-13T21:57:49.656571+00:00"
     },
     {
       "id": "d14acc67f46556aa",
