@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-14T13:16:01.534213+00:00",
-  "count": 59,
+  "generated_at": "2026-07-14T16:09:13.255137+00:00",
+  "count": 60,
   "jobs": [
+    {
+      "id": "91547b2da645a7cd",
+      "title": "Product Manager AI",
+      "company": "YipitData",
+      "location": "US Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-yipitdata-1134770",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-07-13",
+      "tags": [
+        "product manager",
+        "exec",
+        "dev"
+      ],
+      "first_seen": "2026-07-14T16:09:13.255137+00:00"
+    },
     {
       "id": "eb359234ffd545a1",
       "title": "Group Product Manager, Compliance Agent Experience",
