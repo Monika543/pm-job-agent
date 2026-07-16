@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T07:59:45.595683+00:00",
-  "count": 60,
+  "generated_at": "2026-07-16T10:51:25.207446+00:00",
+  "count": 58,
   "jobs": [
     {
       "id": "91547b2da645a7cd",
@@ -407,18 +407,6 @@
       "first_seen": "2026-06-17T02:56:53.404042+00:00"
     },
     {
-      "id": "42692cb79442766c",
-      "title": "Head of Product, Payroll",
-      "company": "Gusto",
-      "location": "Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA;Toronto, Ontario, CAN - Remote",
-      "url": "https://job-boards.greenhouse.io/gusto/jobs/7083259",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-07-02",
-      "tags": [],
-      "first_seen": "2026-06-16T08:50:25.446669+00:00"
-    },
-    {
       "id": "6725ae534edeae47",
       "title": "Staff Product Manager, CX Automation",
       "company": "Coinbase",
@@ -691,18 +679,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-07-15",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "d5ad0a6ea473fc40",
-      "title": "Director, Product Management (SaaS B2B)",
-      "company": "Zenoti",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7514080003",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-05-11",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
