@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-16T13:26:40.790102+00:00",
-  "count": 58,
+  "generated_at": "2026-07-16T16:11:29.259297+00:00",
+  "count": 59,
   "jobs": [
+    {
+      "id": "f0d352d2325368ff",
+      "title": "Product Director EdTech Digital Learning",
+      "company": "peopleworth",
+      "location": "Manchester, Manchester, England, United Kingdom",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-director-edtech-digital-learning-peopleworth-1134884",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-07-15",
+      "tags": [
+        "copywriting",
+        "non tech",
+        "product manager"
+      ],
+      "first_seen": "2026-07-16T16:11:29.259297+00:00"
+    },
     {
       "id": "91547b2da645a7cd",
       "title": "Product Manager AI",
