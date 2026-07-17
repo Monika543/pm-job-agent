@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-17T10:40:10.271704+00:00",
-  "count": 59,
+  "generated_at": "2026-07-17T13:11:42.942956+00:00",
+  "count": 60,
   "jobs": [
+    {
+      "id": "8ce6474a49d4866d",
+      "title": "Staff Product Manager, Games Ecosystem",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8060091",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-17",
+      "tags": [],
+      "first_seen": "2026-07-17T13:11:42.942956+00:00"
+    },
     {
       "id": "313d3c3e764a62c3",
       "title": "Lead Product Manager (Accounting Integrations)",
@@ -690,7 +702,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-16",
+      "posted": "2026-07-17",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
