@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T18:52:12.494562+00:00",
-  "count": 61,
+  "generated_at": "2026-07-18T21:42:28.034879+00:00",
+  "count": 60,
   "jobs": [
     {
       "id": "658587038cb37397",
@@ -417,22 +417,6 @@
         "design"
       ],
       "first_seen": "2026-06-19T10:16:24.897935+00:00"
-    },
-    {
-      "id": "2b39180154e7e18a",
-      "title": "Product Manager",
-      "company": "Ripjar",
-      "location": "London, London, England, United Kingdom",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-ripjar-1133665",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-06-16",
-      "tags": [
-        "analyst",
-        "python",
-        "education"
-      ],
-      "first_seen": "2026-06-18T20:22:32.399127+00:00"
     },
     {
       "id": "a5bcd3c11a11bb4d",
