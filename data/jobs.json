@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-18T07:37:42.995494+00:00",
-  "count": 60,
+  "generated_at": "2026-07-18T10:12:48.471841+00:00",
+  "count": 61,
   "jobs": [
+    {
+      "id": "658587038cb37397",
+      "title": "Senior Product Manager Platform",
+      "company": "Delinea",
+      "location": "Redwood City",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-platform-delinea-1134961",
+      "source": "RemoteOK",
+      "salary": "$130,000\u2013$162,000",
+      "posted": "2026-07-17",
+      "tags": [
+        "product manager",
+        "exec",
+        "design"
+      ],
+      "first_seen": "2026-07-18T10:12:48.471841+00:00"
+    },
     {
       "id": "8ce6474a49d4866d",
       "title": "Staff Product Manager, Games Ecosystem",
