@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-21T16:17:50.398247+00:00",
-  "count": 57,
+  "generated_at": "2026-07-21T19:07:20.687550+00:00",
+  "count": 58,
   "jobs": [
+    {
+      "id": "9e1ad684f29ca9da",
+      "title": "Head of Product Creative",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/7304930?gh_jid=7304930",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-21",
+      "tags": [],
+      "first_seen": "2026-07-21T19:07:20.687550+00:00"
+    },
     {
       "id": "658587038cb37397",
       "title": "Senior Product Manager Platform",
