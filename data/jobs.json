@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T19:07:20.687550+00:00",
-  "count": 58,
+  "generated_at": "2026-07-21T21:58:27.405680+00:00",
+  "count": 57,
   "jobs": [
     {
       "id": "9e1ad684f29ca9da",
@@ -522,7 +522,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7809139",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-26",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -643,18 +643,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-07-20",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "f99a83ec02960027",
-      "title": "Staff Product Manager, Finance Applications",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7803856",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-07-08",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
