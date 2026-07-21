@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T01:58:02.687772+00:00",
-  "count": 59,
+  "generated_at": "2026-07-21T05:42:30.912861+00:00",
+  "count": 57,
   "jobs": [
     {
       "id": "658587038cb37397",
@@ -345,38 +345,6 @@
         "customer support"
       ],
       "first_seen": "2026-06-24T14:11:53.677988+00:00"
-    },
-    {
-      "id": "19d275602d1290db",
-      "title": "Product Manager",
-      "company": "Cambridge Spark",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-cambridge-spark-1133737",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-06-20",
-      "tags": [
-        "exec",
-        "social media",
-        "sys admin"
-      ],
-      "first_seen": "2026-06-21T02:57:56.594575+00:00"
-    },
-    {
-      "id": "49473f93470495ec",
-      "title": "Growth Product Manager",
-      "company": "AltaML",
-      "location": "Canada",
-      "url": "https://remoteOK.com/remote-jobs/remote-growth-product-manager-altaml-1133729",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-06-20",
-      "tags": [
-        "product manager",
-        "marketing",
-        "exec"
-      ],
-      "first_seen": "2026-06-21T02:57:56.594575+00:00"
     },
     {
       "id": "69315883598b1f9d",
