@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-22T05:41:23.175802+00:00",
-  "count": 59,
+  "generated_at": "2026-07-22T08:12:33.836019+00:00",
+  "count": 57,
   "jobs": [
+    {
+      "id": "e08a5329ac428029",
+      "title": "Lead Product Manager (Market + Billing)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7729931003",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-22",
+      "tags": [],
+      "first_seen": "2026-07-22T08:12:33.836019+00:00"
+    },
     {
       "id": "796cf845173bef67",
       "title": "Product Manager",
@@ -78,7 +90,7 @@
       "url": "https://job-boards.greenhouse.io/zenoti/jobs/7806710003",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-17",
+      "posted": "2026-07-22",
       "tags": [],
       "first_seen": "2026-07-17T05:33:59.381667+00:00"
     },
@@ -683,42 +695,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-07-21",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "0510866e2e070c02",
-      "title": "Lead Product Manager - Accounting Integrations",
-      "company": "Zenoti",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7730069003",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-05-11",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "9d823184d9c07eba",
-      "title": "Lead Product Manager (APIs + Partner Ecosystem)",
-      "company": "Zenoti",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7589589003",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-05-11",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "171fec68c856ea80",
-      "title": "Lead Product Manager (Marketing + AI Marketer)",
-      "company": "Zenoti",
-      "location": "Hyderabad, Telangana, India",
-      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7729931003",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-05-11",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
