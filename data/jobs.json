@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-07-21T21:58:27.405680+00:00",
-  "count": 57,
+  "generated_at": "2026-07-22T01:56:52.988799+00:00",
+  "count": 59,
   "jobs": [
+    {
+      "id": "796cf845173bef67",
+      "title": "Product Manager",
+      "company": "360Dialog",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-360dialog-1135112",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-07-20",
+      "tags": [
+        "product manager",
+        "exec",
+        "dev"
+      ],
+      "first_seen": "2026-07-22T01:56:52.988799+00:00"
+    },
+    {
+      "id": "957749174a2dd8c9",
+      "title": "Staff Product Manager, Ads Trust and Safety",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-21",
+      "tags": [],
+      "first_seen": "2026-07-22T01:56:52.988799+00:00"
+    },
     {
       "id": "9e1ad684f29ca9da",
       "title": "Head of Product Creative",
@@ -94,7 +122,7 @@
       "url": "https://www.coinbase.com/careers/positions/8060662?gh_jid=8060662",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-14",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-07-14T05:22:39.465802+00:00"
     },
@@ -118,7 +146,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7517535",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-09",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-07-09T22:15:19.578629+00:00"
     },
@@ -242,7 +270,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7812856",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-01",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-07-01T22:13:59.565348+00:00"
     },
@@ -390,7 +418,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7392697",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-26",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-06-17T17:47:13.036200+00:00"
     },
@@ -450,7 +478,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7984866",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-26",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-06-11T18:12:13.575479+00:00"
     },
@@ -498,7 +526,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7819759",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-26",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -510,7 +538,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7979422",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-26",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -534,7 +562,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7176530",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-26",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -546,7 +574,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7625842",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-26",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -558,7 +586,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7980498",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-26",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -570,7 +598,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7913702",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-26",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -582,7 +610,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7570242",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-26",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -594,7 +622,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7819059",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-26",
+      "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
