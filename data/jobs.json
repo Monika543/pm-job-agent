@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T19:02:59.575375+00:00",
+  "generated_at": "2026-07-23T21:59:08.517241+00:00",
   "count": 57,
   "jobs": [
     {
@@ -15,6 +15,18 @@
       "first_seen": "2026-07-22T08:12:33.836019+00:00"
     },
     {
+      "id": "957749174a2dd8c9",
+      "title": "Staff Product Manager, Ads Trust and Safety",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-23",
+      "tags": [],
+      "first_seen": "2026-07-22T01:56:52.988799+00:00"
+    },
+    {
       "id": "796cf845173bef67",
       "title": "Product Manager",
       "company": "360Dialog",
@@ -28,18 +40,6 @@
         "exec",
         "dev"
       ],
-      "first_seen": "2026-07-22T01:56:52.988799+00:00"
-    },
-    {
-      "id": "957749174a2dd8c9",
-      "title": "Staff Product Manager, Ads Trust and Safety",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-07-23",
-      "tags": [],
       "first_seen": "2026-07-22T01:56:52.988799+00:00"
     },
     {
