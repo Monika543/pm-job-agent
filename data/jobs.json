@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T19:15:24.644285+00:00",
-  "count": 55,
+  "generated_at": "2026-07-24T21:58:09.778840+00:00",
+  "count": 54,
   "jobs": [
     {
       "id": "e08a5329ac428029",
@@ -643,18 +643,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-07-07",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "d03bb06ec3dc66a9",
-      "title": "Senior Group Product Manager, Advertiser Optimization (Ads Marketplace)",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7858506",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-07-20",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
