@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T08:12:33.790173+00:00",
-  "count": 53,
+  "generated_at": "2026-07-26T10:37:50.088279+00:00",
+  "count": 51,
   "jobs": [
     {
       "id": "e08a5329ac428029",
@@ -639,30 +639,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-07-25",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "3bcf45f03b28cc6d",
-      "title": "Senior Product Manager",
-      "company": "Netomi",
-      "location": "Gurugram",
-      "url": "https://jobs.lever.co/netomi/71934132-49f9-4553-9870-e70f77ec9819",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-03-23",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "928120c1e5a6899a",
-      "title": "Senior Product Manager - Autonomous Agents",
-      "company": "Netomi",
-      "location": "Gurugram",
-      "url": "https://jobs.lever.co/netomi/c83a8721-a18f-4e31-93b6-057b97d21e38",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-03-06",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
