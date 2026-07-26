@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-07-26T10:37:50.088279+00:00",
-  "count": 51,
+  "generated_at": "2026-07-26T13:03:41.454975+00:00",
+  "count": 52,
   "jobs": [
+    {
+      "id": "3bcf45f03b28cc6d",
+      "title": "Senior Product Manager",
+      "company": "Netomi",
+      "location": "Gurugram",
+      "url": "https://jobs.lever.co/netomi/71934132-49f9-4553-9870-e70f77ec9819",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-03-23",
+      "tags": [],
+      "first_seen": "2026-07-26T13:03:41.454975+00:00"
+    },
+    {
+      "id": "928120c1e5a6899a",
+      "title": "Senior Product Manager - Autonomous Agents",
+      "company": "Netomi",
+      "location": "Gurugram",
+      "url": "https://jobs.lever.co/netomi/c83a8721-a18f-4e31-93b6-057b97d21e38",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-03-06",
+      "tags": [],
+      "first_seen": "2026-07-26T13:03:41.454975+00:00"
+    },
     {
       "id": "e08a5329ac428029",
       "title": "Lead Product Manager (Market + Billing)",
@@ -22,7 +46,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-25",
+      "posted": "2026-07-26",
       "tags": [],
       "first_seen": "2026-07-22T01:56:52.988799+00:00"
     },
@@ -339,22 +363,6 @@
       "first_seen": "2026-06-28T02:45:58.697816+00:00"
     },
     {
-      "id": "ff88e8768a44e0ce",
-      "title": "Product manager",
-      "company": "DU\u00c4\u0092AST",
-      "location": "Nirsa,",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-dueast-1134144",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-06-24",
-      "tags": [
-        "project manager",
-        "exec",
-        "product manager"
-      ],
-      "first_seen": "2026-06-26T11:40:33.813977+00:00"
-    },
-    {
       "id": "69315883598b1f9d",
       "title": "Group Product Manager, Core Infrastructure & Reliability",
       "company": "Coinbase",
@@ -638,7 +646,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-25",
+      "posted": "2026-07-26",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
