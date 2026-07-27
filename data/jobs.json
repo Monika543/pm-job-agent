@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-27T12:14:16.138851+00:00",
-  "count": 53,
+  "generated_at": "2026-07-27T16:53:41.216644+00:00",
+  "count": 54,
   "jobs": [
+    {
+      "id": "ad35805fce419f2a",
+      "title": "Senior Product Manager \u2013 Integrations Platform",
+      "company": "Netomi",
+      "location": "Gurugram",
+      "url": "https://jobs.lever.co/netomi/71934132-49f9-4553-9870-e70f77ec9819",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-03-23",
+      "tags": [],
+      "first_seen": "2026-07-27T16:53:41.216644+00:00"
+    },
     {
       "id": "10dc7077fb42e4e6",
       "title": "Group Product Manager",
@@ -15,18 +27,6 @@
       "first_seen": "2026-07-27T06:20:37.301841+00:00"
     },
     {
-      "id": "3bcf45f03b28cc6d",
-      "title": "Senior Product Manager",
-      "company": "Netomi",
-      "location": "Gurugram",
-      "url": "https://jobs.lever.co/netomi/71934132-49f9-4553-9870-e70f77ec9819",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-03-23",
-      "tags": [],
-      "first_seen": "2026-07-26T13:03:41.454975+00:00"
-    },
-    {
       "id": "928120c1e5a6899a",
       "title": "Senior Product Manager - Autonomous Agents",
       "company": "Netomi",
@@ -35,6 +35,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-03-06",
+      "tags": [],
+      "first_seen": "2026-07-26T13:03:41.454975+00:00"
+    },
+    {
+      "id": "3bcf45f03b28cc6d",
+      "title": "Senior Product Manager",
+      "company": "Netomi",
+      "location": "Gurugram",
+      "url": "https://jobs.lever.co/netomi/71934132-49f9-4553-9870-e70f77ec9819",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-03-23",
       "tags": [],
       "first_seen": "2026-07-26T13:03:41.454975+00:00"
     },
@@ -194,7 +206,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7517535",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-22",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-07-09T22:15:19.578629+00:00"
     },
@@ -318,7 +330,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7812856",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-22",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-07-01T22:13:59.565348+00:00"
     },
@@ -406,7 +418,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7392697",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-22",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-06-17T17:47:13.036200+00:00"
     },
@@ -466,7 +478,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7984866",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-22",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-06-11T18:12:13.575479+00:00"
     },
@@ -514,7 +526,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7819759",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-22",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -526,7 +538,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7979422",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-22",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -538,7 +550,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7809139",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-22",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -550,7 +562,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7176530",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-22",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -562,7 +574,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7625842",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-22",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -586,7 +598,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7913702",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-22",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -598,7 +610,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7570242",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-24",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
