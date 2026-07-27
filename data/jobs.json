@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-27T02:11:12.544938+00:00",
-  "count": 52,
+  "generated_at": "2026-07-27T06:20:37.301841+00:00",
+  "count": 53,
   "jobs": [
+    {
+      "id": "10dc7077fb42e4e6",
+      "title": "Group Product Manager",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/d7924eb1-301e-4098-ab7b-f3a4c92c210a",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-06-29",
+      "tags": [],
+      "first_seen": "2026-07-27T06:20:37.301841+00:00"
+    },
     {
       "id": "3bcf45f03b28cc6d",
       "title": "Senior Product Manager",
@@ -46,7 +58,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-26",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-07-22T01:56:52.988799+00:00"
     },
@@ -646,7 +658,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-26",
+      "posted": "2026-07-27",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
