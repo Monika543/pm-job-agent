@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-28T16:28:42.394159+00:00",
-  "count": 53,
+  "generated_at": "2026-07-28T19:12:20.579867+00:00",
+  "count": 54,
   "jobs": [
+    {
+      "id": "18ee657451ab2ed3",
+      "title": "Senior Product Manager, Tenant Scale",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, US",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8512220002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-28",
+      "tags": [],
+      "first_seen": "2026-07-28T19:12:20.579867+00:00"
+    },
     {
       "id": "ad35805fce419f2a",
       "title": "Senior Product Manager \u2013 Integrations Platform",
