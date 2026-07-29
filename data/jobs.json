@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-07-29T11:16:36.165612+00:00",
-  "count": 54,
+  "generated_at": "2026-07-29T13:51:40.583178+00:00",
+  "count": 55,
   "jobs": [
+    {
+      "id": "6b6e95f66fa91061",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4716555005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-07-29",
+      "tags": [],
+      "first_seen": "2026-07-29T13:51:40.583178+00:00"
+    },
     {
       "id": "18ee657451ab2ed3",
       "title": "Senior Product Manager, Tenant Scale",
@@ -82,7 +94,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-28",
+      "posted": "2026-07-29",
       "tags": [],
       "first_seen": "2026-07-22T01:56:52.988799+00:00"
     },
@@ -666,7 +678,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-28",
+      "posted": "2026-07-29",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
