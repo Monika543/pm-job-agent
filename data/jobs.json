@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-07-30T08:11:16.883504+00:00",
-  "count": 54,
+  "generated_at": "2026-07-30T10:59:57.696654+00:00",
+  "count": 55,
   "jobs": [
+    {
+      "id": "70f306dcc436fd06",
+      "title": "Product Manager \u00c2\u00b7 New York Chicago Charlotte",
+      "company": "Oula",
+      "location": "New York, New York, New York, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-new-york-chicago-charlotte-oula-1135672",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-07-28",
+      "tags": [
+        "testing",
+        "education",
+        "exec"
+      ],
+      "first_seen": "2026-07-30T10:59:57.696654+00:00"
+    },
     {
       "id": "6b6e95f66fa91061",
       "title": "Senior Product Manager",
@@ -10,7 +26,7 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4716555005",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-29",
+      "posted": "2026-07-30",
       "tags": [],
       "first_seen": "2026-07-29T13:51:40.583178+00:00"
     },
