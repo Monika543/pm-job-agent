@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T11:23:39.630776+00:00",
-  "count": 53,
+  "generated_at": "2026-07-31T13:46:41.163104+00:00",
+  "count": 52,
   "jobs": [
     {
       "id": "70f306dcc436fd06",
@@ -110,7 +110,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-30",
+      "posted": "2026-07-31",
       "tags": [],
       "first_seen": "2026-07-22T01:56:52.988799+00:00"
     },
@@ -373,18 +373,6 @@
       "posted": "2026-07-29",
       "tags": [],
       "first_seen": "2026-07-01T22:13:59.565348+00:00"
-    },
-    {
-      "id": "8f371869c847eb3a",
-      "title": "Product Manager II - i18n",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4711187005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-07-01",
-      "tags": [],
-      "first_seen": "2026-07-01T11:54:33.727121+00:00"
     },
     {
       "id": "69315883598b1f9d",
@@ -658,7 +646,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-30",
+      "posted": "2026-07-31",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
