@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T10:28:30.122909+00:00",
-  "count": 53,
+  "generated_at": "2026-08-01T13:02:18.460031+00:00",
+  "count": 52,
   "jobs": [
     {
       "id": "4c8db3c3f3c4625d",
@@ -126,7 +126,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-31",
+      "posted": "2026-08-01",
       "tags": [],
       "first_seen": "2026-07-22T01:56:52.988799+00:00"
     },
@@ -353,18 +353,6 @@
       "posted": "2026-07-02",
       "tags": [],
       "first_seen": "2026-07-02T22:01:00.558970+00:00"
-    },
-    {
-      "id": "73a61a92f539eb81",
-      "title": "Product Manager l - Growth",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/ba7f74f1-2448-43f1-bf1f-93949673abb4",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-06-01",
-      "tags": [],
-      "first_seen": "2026-07-02T11:27:59.186645+00:00"
     },
     {
       "id": "b75d5f4aa1cbfe6c",
@@ -662,7 +650,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-31",
+      "posted": "2026-08-01",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
