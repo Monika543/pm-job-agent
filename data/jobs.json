@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-03T17:05:02.370625+00:00",
-  "count": 51,
+  "generated_at": "2026-08-03T19:21:45.240188+00:00",
+  "count": 52,
   "jobs": [
+    {
+      "id": "3a5030f835eccb15",
+      "title": "Principal Product Manager, AI Software Factory",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8658878002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-08-03",
+      "tags": [],
+      "first_seen": "2026-08-03T19:21:45.240188+00:00"
+    },
     {
       "id": "4c8db3c3f3c4625d",
       "title": "Product Manager",
