@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T02:04:54.831414+00:00",
-  "count": 52,
+  "generated_at": "2026-08-03T06:12:26.367418+00:00",
+  "count": 51,
   "jobs": [
     {
       "id": "4c8db3c3f3c4625d",
@@ -325,22 +325,6 @@
       "posted": "2026-07-06",
       "tags": [],
       "first_seen": "2026-07-06T22:08:52.686449+00:00"
-    },
-    {
-      "id": "8bb4acd5f7b797d2",
-      "title": "Product Manager Solar Inverters",
-      "company": "TMEIC Corporation Americas",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-solar-inverters-tmeic-corporation-americas-1134410",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-07-03",
-      "tags": [
-        "product manager",
-        "exec",
-        "design"
-      ],
-      "first_seen": "2026-07-04T02:10:23.075922+00:00"
     },
     {
       "id": "9ecc631cc7e3e713",
