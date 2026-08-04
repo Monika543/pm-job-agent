@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-04T13:52:43.339721+00:00",
-  "count": 52,
+  "generated_at": "2026-08-04T16:47:10.181966+00:00",
+  "count": 51,
   "jobs": [
     {
       "id": "3a5030f835eccb15",
@@ -608,18 +608,6 @@
       "company": "GitLab",
       "location": "Remote, Canada; Remote, US",
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8564957002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-08-03",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "f9c6729f61cc65d4",
-      "title": "Senior Product Manager, AI Platform Management",
-      "company": "GitLab",
-      "location": "Remote, Israel; Remote, United Kingdom",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8568868002",
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-08-03",
