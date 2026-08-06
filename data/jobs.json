@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-06T05:40:41.531329+00:00",
-  "count": 51,
+  "generated_at": "2026-08-06T08:20:48.598437+00:00",
+  "count": 52,
   "jobs": [
+    {
+      "id": "d569c4fc7cea341a",
+      "title": "Product Manager",
+      "company": "OpenSkills",
+      "location": "Good Design,",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-openskills-1136133",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-08-05",
+      "tags": [
+        "design",
+        "dev",
+        "digital nomad"
+      ],
+      "first_seen": "2026-08-06T08:20:48.598437+00:00"
+    },
     {
       "id": "3a5030f835eccb15",
       "title": "Principal Product Manager, AI Software Factory",
