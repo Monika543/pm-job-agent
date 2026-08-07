@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T04:49:37.358418+00:00",
-  "count": 53,
+  "generated_at": "2026-08-07T07:02:38.411484+00:00",
+  "count": 52,
   "jobs": [
     {
       "id": "4ffb596b75476171",
@@ -353,18 +353,6 @@
       "posted": "2026-08-03",
       "tags": [],
       "first_seen": "2026-07-07T22:06:33.287772+00:00"
-    },
-    {
-      "id": "e17f18bedde3fe29",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4712108005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-07-28",
-      "tags": [],
-      "first_seen": "2026-07-07T11:40:20.189145+00:00"
     },
     {
       "id": "461ee56e36a5bc3b",
