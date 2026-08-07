@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T18:42:59.294298+00:00",
-  "count": 52,
+  "generated_at": "2026-08-07T21:31:28.803335+00:00",
+  "count": 51,
   "jobs": [
     {
       "id": "4ffb596b75476171",
@@ -564,18 +564,6 @@
       "company": "Stripe",
       "location": "Bengaluru",
       "url": "https://stripe.com/jobs/search?gh_jid=7625842",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-08-06",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "95af8dd260064d3e",
-      "title": "Staff Product Manager, Cards Monetization",
-      "company": "Stripe",
-      "location": "Seattle, San Francisco, New York, US - Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7980498",
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-08-06",
