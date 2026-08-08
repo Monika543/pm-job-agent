@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T12:31:35.408481+00:00",
-  "count": 51,
+  "generated_at": "2026-08-08T15:21:33.156369+00:00",
+  "count": 50,
   "jobs": [
     {
       "id": "4ffb596b75476171",
@@ -317,18 +317,6 @@
       "posted": "2026-08-06",
       "tags": [],
       "first_seen": "2026-07-09T22:15:19.578629+00:00"
-    },
-    {
-      "id": "9b7d222e70a569e4",
-      "title": "Product Manager ( Data Platforms)",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/3279b339-aad6-4522-80d4-2587693651cb",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2025-09-15",
-      "tags": [],
-      "first_seen": "2026-07-09T14:38:43.465252+00:00"
     },
     {
       "id": "2bac10ce10226653",
