@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-11T04:13:33.550084+00:00",
-  "count": 48,
+  "generated_at": "2026-08-11T06:53:32.293086+00:00",
+  "count": 49,
   "jobs": [
+    {
+      "id": "b24b6cc15c1eae02",
+      "title": "Product Manager I ( Data Platforms)",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/2f1dba8f-bc99-4490-8200-d2cd7f92f544",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-08-07",
+      "tags": [],
+      "first_seen": "2026-08-11T06:53:32.293086+00:00"
+    },
     {
       "id": "4ffb596b75476171",
       "title": "Senior Product Manager, Growth",
