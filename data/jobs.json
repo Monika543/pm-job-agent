@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-12T04:42:32.773750+00:00",
-  "count": 50,
+  "generated_at": "2026-08-12T07:12:44.639036+00:00",
+  "count": 51,
   "jobs": [
+    {
+      "id": "299d964a3e568101",
+      "title": "Senior Product Manager",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/128cee5f-5e62-43f4-8339-6ead8b5498e7",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-08-12",
+      "tags": [],
+      "first_seen": "2026-08-12T07:12:44.639036+00:00"
+    },
     {
       "id": "580b5e4263837705",
       "title": "Senior Product Manager, Ads -  Shopping Catalogs",
