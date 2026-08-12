@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-08-12T12:51:25.334612+00:00",
-  "count": 51,
+  "generated_at": "2026-08-12T15:52:36.764152+00:00",
+  "count": 53,
   "jobs": [
+    {
+      "id": "a044592e717e63cc",
+      "title": "Staff Product Manager, Ads Safety (Ads Review)",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-08-12",
+      "tags": [],
+      "first_seen": "2026-08-12T15:52:36.764152+00:00"
+    },
+    {
+      "id": "2605fb919406dca8",
+      "title": "Product Manager II - Growth",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/e4aba1e5-ef86-4c50-8985-2e46ff688354",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-02-27",
+      "tags": [],
+      "first_seen": "2026-08-12T15:52:36.764152+00:00"
+    },
     {
       "id": "299d964a3e568101",
       "title": "Senior Product Manager",
