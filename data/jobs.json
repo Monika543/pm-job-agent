@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T18:52:12.272487+00:00",
-  "count": 53,
+  "generated_at": "2026-08-12T21:37:05.127726+00:00",
+  "count": 52,
   "jobs": [
     {
       "id": "a044592e717e63cc",
@@ -533,18 +533,6 @@
       "posted": "2026-06-11",
       "tags": [],
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
-    },
-    {
-      "id": "6f122149046ba241",
-      "title": "Product Lead, Connect",
-      "company": "Stripe",
-      "location": "San Francisco, New York City, Seattle, US Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7819759",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-08-06",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
       "id": "ff3ef718c1712c21",
