@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-13T21:36:44.415520+00:00",
-  "count": 51,
+  "generated_at": "2026-08-14T01:17:11.740740+00:00",
+  "count": 52,
   "jobs": [
+    {
+      "id": "761b282d6a56f0d1",
+      "title": "Product Manager",
+      "company": "Resourceful Talent Group",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-resourceful-talent-group-1136579",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-08-13",
+      "tags": [
+        "product manager",
+        "exec",
+        "saas"
+      ],
+      "first_seen": "2026-08-14T01:17:11.740740+00:00"
+    },
     {
       "id": "e1a078addd4b9290",
       "title": "Product Manager I (Platform)",
