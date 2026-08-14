@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T09:52:41.594323+00:00",
-  "count": 52,
+  "generated_at": "2026-08-14T12:47:48.080557+00:00",
+  "count": 51,
   "jobs": [
     {
       "id": "761b282d6a56f0d1",
@@ -38,7 +38,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-13",
+      "posted": "2026-08-14",
       "tags": [],
       "first_seen": "2026-08-12T15:52:36.764152+00:00"
     },
@@ -74,7 +74,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-13",
+      "posted": "2026-08-14",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -619,18 +619,6 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "f2aeea996eef4b5b",
-      "title": "Principal Product Manager, AI Custom Models",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8564957002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-08-10",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "ed525cab32ebb310",
       "title": "Senior Director of Product, Ads Platform",
       "company": "Reddit",
@@ -650,7 +638,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-13",
+      "posted": "2026-08-14",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
