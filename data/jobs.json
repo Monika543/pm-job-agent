@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-08-16T06:26:31.527630+00:00",
-  "count": 50,
+  "generated_at": "2026-08-16T09:19:56.739886+00:00",
+  "count": 51,
   "jobs": [
+    {
+      "id": "46dfe42e71914450",
+      "title": "Product Manager",
+      "company": "Shopper1st",
+      "location": "Nirsa,",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-shopper1st-1136807",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-08-11",
+      "tags": [
+        "testing",
+        "medical",
+        "non tech"
+      ],
+      "first_seen": "2026-08-16T09:19:56.739886+00:00"
+    },
     {
       "id": "761b282d6a56f0d1",
       "title": "Product Manager",
