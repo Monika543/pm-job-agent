@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T12:22:53.010068+00:00",
-  "count": 51,
+  "generated_at": "2026-08-16T15:13:37.673508+00:00",
+  "count": 50,
   "jobs": [
     {
       "id": "46dfe42e71914450",
@@ -329,18 +329,6 @@
         "design"
       ],
       "first_seen": "2026-07-18T10:12:48.471841+00:00"
-    },
-    {
-      "id": "8ce6474a49d4866d",
-      "title": "Staff Product Manager, Games Ecosystem",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8060091",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-07-17",
-      "tags": [],
-      "first_seen": "2026-07-17T13:11:42.942956+00:00"
     },
     {
       "id": "313d3c3e764a62c3",
