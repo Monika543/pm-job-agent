@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-17T18:26:49.110681+00:00",
-  "count": 49,
+  "generated_at": "2026-08-17T21:18:19.101203+00:00",
+  "count": 50,
   "jobs": [
+    {
+      "id": "a3ba4bcd91677bdb",
+      "title": "Senior Product Manager, Secret Detection and Vulnerability Research",
+      "company": "GitLab",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8697043002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-08-17",
+      "tags": [],
+      "first_seen": "2026-08-17T21:18:19.101203+00:00"
+    },
     {
       "id": "46dfe42e71914450",
       "title": "Product Manager",
