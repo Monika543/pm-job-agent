@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T09:33:01.950307+00:00",
-  "count": 50,
+  "generated_at": "2026-08-17T12:27:44.930378+00:00",
+  "count": 49,
   "jobs": [
     {
       "id": "46dfe42e71914450",
@@ -54,7 +54,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-16",
+      "posted": "2026-08-17",
       "tags": [],
       "first_seen": "2026-08-12T15:52:36.764152+00:00"
     },
@@ -90,7 +90,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-16",
+      "posted": "2026-08-17",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -313,22 +313,6 @@
       "posted": "2026-07-21",
       "tags": [],
       "first_seen": "2026-07-21T19:07:20.687550+00:00"
-    },
-    {
-      "id": "658587038cb37397",
-      "title": "Senior Product Manager Platform",
-      "company": "Delinea",
-      "location": "Redwood City",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-platform-delinea-1134961",
-      "source": "RemoteOK",
-      "salary": "$130,000\u2013$162,000",
-      "posted": "2026-07-17",
-      "tags": [
-        "product manager",
-        "exec",
-        "design"
-      ],
-      "first_seen": "2026-07-18T10:12:48.471841+00:00"
     },
     {
       "id": "313d3c3e764a62c3",
@@ -626,7 +610,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-16",
+      "posted": "2026-08-17",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
