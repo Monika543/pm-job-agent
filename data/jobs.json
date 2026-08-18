@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-18T06:29:20.918546+00:00",
+  "generated_at": "2026-08-18T09:24:20.113070+00:00",
   "count": 50,
   "jobs": [
+    {
+      "id": "91438ab8b9bfc797",
+      "title": "Product Manager II",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/e4aba1e5-ef86-4c50-8985-2e46ff688354",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-02-27",
+      "tags": [],
+      "first_seen": "2026-08-18T09:24:20.113070+00:00"
+    },
     {
       "id": "a3ba4bcd91677bdb",
       "title": "Senior Product Manager, Secret Detection and Vulnerability Research",
@@ -563,18 +575,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-08-13",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
-      "id": "9555e6dc0f2e7316",
-      "title": "Staff Product Manager, Dashboard",
-      "company": "Stripe",
-      "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7913702",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-08-06",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
