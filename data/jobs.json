@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-19T18:22:31.293420+00:00",
-  "count": 50,
+  "generated_at": "2026-08-19T21:18:26.932683+00:00",
+  "count": 51,
   "jobs": [
+    {
+      "id": "9555e6dc0f2e7316",
+      "title": "Staff Product Manager, Dashboard",
+      "company": "Stripe",
+      "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913702",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-08-19",
+      "tags": [],
+      "first_seen": "2026-08-19T21:18:26.932683+00:00"
+    },
     {
       "id": "91438ab8b9bfc797",
       "title": "Product Manager II",
