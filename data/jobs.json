@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-21T15:25:13.184699+00:00",
-  "count": 49,
+  "generated_at": "2026-08-21T18:25:32.900556+00:00",
+  "count": 50,
   "jobs": [
+    {
+      "id": "dad8f6c58e007b6f",
+      "title": "Staff Product Manager, Billing",
+      "company": "Stripe",
+      "location": "SF, NY, SEA, Remote-US",
+      "url": "https://stripe.com/jobs/search?gh_jid=7983725",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-08-21",
+      "tags": [],
+      "first_seen": "2026-08-21T18:25:32.900556+00:00"
+    },
     {
       "id": "9555e6dc0f2e7316",
       "title": "Staff Product Manager, Dashboard",
@@ -426,7 +438,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7812856",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-18",
+      "posted": "2026-08-21",
       "tags": [],
       "first_seen": "2026-07-01T22:13:59.565348+00:00"
     },
