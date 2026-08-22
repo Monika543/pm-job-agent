@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-21T21:16:04.359521+00:00",
-  "count": 50,
+  "generated_at": "2026-08-22T00:48:23.404869+00:00",
+  "count": 51,
   "jobs": [
+    {
+      "id": "00fa2f17079441e4",
+      "title": "Product Manager II, Workspace and Multi-User",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8148171?gh_jid=8148171",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-08-21",
+      "tags": [],
+      "first_seen": "2026-08-22T00:48:23.404869+00:00"
+    },
     {
       "id": "dad8f6c58e007b6f",
       "title": "Staff Product Manager, Billing",
