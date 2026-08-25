@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-25T12:32:31.178448+00:00",
+  "generated_at": "2026-08-25T15:34:33.278680+00:00",
   "count": 50,
   "jobs": [
+    {
+      "id": "7820e7c41c095f65",
+      "title": "Product Manager, Sail Core",
+      "company": "Stripe",
+      "location": "Toronto, New York, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913698",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-08-25",
+      "tags": [],
+      "first_seen": "2026-08-25T15:34:33.278680+00:00"
+    },
     {
       "id": "b840e466576626a9",
       "title": "Senior Product Manager, Source Code",
@@ -319,18 +331,6 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-03-06",
-      "tags": [],
-      "first_seen": "2026-07-26T13:03:41.454975+00:00"
-    },
-    {
-      "id": "3bcf45f03b28cc6d",
-      "title": "Senior Product Manager",
-      "company": "Netomi",
-      "location": "Gurugram",
-      "url": "https://jobs.lever.co/netomi/71934132-49f9-4553-9870-e70f77ec9819",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-03-23",
       "tags": [],
       "first_seen": "2026-07-26T13:03:41.454975+00:00"
     },
