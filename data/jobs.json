@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-25T18:28:00.236680+00:00",
-  "count": 50,
+  "generated_at": "2026-08-25T21:19:47.470032+00:00",
+  "count": 51,
   "jobs": [
+    {
+      "id": "5ae607c7c4378b6b",
+      "title": "Senior Enterprise Product Manager, FP&A",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8154856?gh_jid=8154856",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-08-25",
+      "tags": [],
+      "first_seen": "2026-08-25T21:19:47.470032+00:00"
+    },
     {
       "id": "7820e7c41c095f65",
       "title": "Product Manager, Sail Core",
@@ -22,7 +34,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597805002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-24",
+      "posted": "2026-08-25",
       "tags": [],
       "first_seen": "2026-08-24T18:28:25.190951+00:00"
     },
