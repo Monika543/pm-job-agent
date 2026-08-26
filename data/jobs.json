@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-26T09:32:58.228984+00:00",
-  "count": 51,
+  "generated_at": "2026-08-26T12:36:12.073969+00:00",
+  "count": 52,
   "jobs": [
+    {
+      "id": "8d9a8862d77595a0",
+      "title": "Product Manager I - AI",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/95a27bd6-2803-47f0-b159-47398f607a59",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-08-26",
+      "tags": [],
+      "first_seen": "2026-08-26T12:36:12.073969+00:00"
+    },
     {
       "id": "5ae607c7c4378b6b",
       "title": "Senior Enterprise Product Manager, FP&A",
@@ -150,7 +162,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "tags": [],
       "first_seen": "2026-08-12T15:52:36.764152+00:00"
     },
@@ -186,7 +198,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -630,7 +642,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
