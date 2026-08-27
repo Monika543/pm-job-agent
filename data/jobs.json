@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-27T00:22:04.272820+00:00",
-  "count": 52,
+  "generated_at": "2026-08-27T13:26:17.093481+00:00",
+  "count": 50,
   "jobs": [
     {
       "id": "8d9a8862d77595a0",
@@ -162,7 +162,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-26",
+      "posted": "2026-08-27",
       "tags": [],
       "first_seen": "2026-08-12T15:52:36.764152+00:00"
     },
@@ -198,7 +198,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-26",
+      "posted": "2026-08-27",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -323,18 +323,6 @@
       "first_seen": "2026-07-28T19:12:20.579867+00:00"
     },
     {
-      "id": "ad35805fce419f2a",
-      "title": "Senior Product Manager \u2013 Integrations Platform",
-      "company": "Netomi",
-      "location": "Gurugram",
-      "url": "https://jobs.lever.co/netomi/71934132-49f9-4553-9870-e70f77ec9819",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-03-23",
-      "tags": [],
-      "first_seen": "2026-07-27T16:53:41.216644+00:00"
-    },
-    {
       "id": "10dc7077fb42e4e6",
       "title": "Group Product Manager",
       "company": "Meesho",
@@ -345,18 +333,6 @@
       "posted": "2026-06-29",
       "tags": [],
       "first_seen": "2026-07-27T06:20:37.301841+00:00"
-    },
-    {
-      "id": "928120c1e5a6899a",
-      "title": "Senior Product Manager - Autonomous Agents",
-      "company": "Netomi",
-      "location": "Gurugram",
-      "url": "https://jobs.lever.co/netomi/c83a8721-a18f-4e31-93b6-057b97d21e38",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-03-06",
-      "tags": [],
-      "first_seen": "2026-07-26T13:03:41.454975+00:00"
     },
     {
       "id": "e08a5329ac428029",
@@ -642,7 +618,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-26",
+      "posted": "2026-08-27",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
