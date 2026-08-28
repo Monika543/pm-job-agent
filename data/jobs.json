@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-28T14:45:52.638545+00:00",
-  "count": 49,
+  "generated_at": "2026-08-28T23:47:33.139779+00:00",
+  "count": 50,
   "jobs": [
+    {
+      "id": "7a560bc9bc4aba6d",
+      "title": "Product Manager, Identity & Access Management",
+      "company": "Stripe",
+      "location": "US-Remote, US-Chicago",
+      "url": "https://stripe.com/jobs/search?gh_jid=8165137",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-08-28",
+      "tags": [],
+      "first_seen": "2026-08-28T23:47:33.139779+00:00"
+    },
     {
       "id": "8d9a8862d77595a0",
       "title": "Product Manager I - AI",
