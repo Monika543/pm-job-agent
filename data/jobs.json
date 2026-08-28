@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T00:10:40.774865+00:00",
-  "count": 50,
+  "generated_at": "2026-08-28T14:45:52.638545+00:00",
+  "count": 49,
   "jobs": [
     {
       "id": "8d9a8862d77595a0",
@@ -162,7 +162,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-27",
+      "posted": "2026-08-28",
       "tags": [],
       "first_seen": "2026-08-12T15:52:36.764152+00:00"
     },
@@ -198,7 +198,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-27",
+      "posted": "2026-08-28",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -551,18 +551,6 @@
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
-      "id": "0a9993b188aee8e5",
-      "title": "Product Manager, Growth AI Outreach Motion",
-      "company": "Stripe",
-      "location": "Toronto, Remote- Canada",
-      "url": "https://stripe.com/jobs/search?gh_jid=7809139",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-08-18",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
-    },
-    {
       "id": "cae06ffeaa3ccd5d",
       "title": "Product Manager, Payments",
       "company": "Stripe",
@@ -618,7 +606,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-27",
+      "posted": "2026-08-28",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
