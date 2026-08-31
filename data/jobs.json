@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T02:44:14.424105+00:00",
-  "count": 49,
+  "generated_at": "2026-08-31T09:09:27.244886+00:00",
+  "count": 48,
   "jobs": [
     {
       "id": "7a560bc9bc4aba6d",
@@ -277,22 +277,6 @@
       "posted": "2026-08-29",
       "tags": [],
       "first_seen": "2026-08-03T19:21:45.240188+00:00"
-    },
-    {
-      "id": "4c8db3c3f3c4625d",
-      "title": "Product Manager",
-      "company": "Marval Software",
-      "location": "England, England, United Kingdom",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-marval-software-1135766",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-07-28",
-      "tags": [
-        "dev",
-        "speech",
-        "finance"
-      ],
-      "first_seen": "2026-08-01T08:07:53.851982+00:00"
     },
     {
       "id": "6b6e95f66fa91061",
