@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-08-31T09:09:27.244886+00:00",
-  "count": 48,
+  "generated_at": "2026-08-31T18:32:39.836557+00:00",
+  "count": 49,
   "jobs": [
+    {
+      "id": "7566c7388b8f7b9d",
+      "title": "Staff Product Manager, Ads Formats",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-08-31",
+      "tags": [],
+      "first_seen": "2026-08-31T18:32:39.836557+00:00"
+    },
     {
       "id": "7a560bc9bc4aba6d",
       "title": "Product Manager, Identity & Access Management",
@@ -58,7 +70,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597805002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-29",
+      "posted": "2026-08-31",
       "tags": [],
       "first_seen": "2026-08-24T18:28:25.190951+00:00"
     },
@@ -118,7 +130,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8697043002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-29",
+      "posted": "2026-08-31",
       "tags": [],
       "first_seen": "2026-08-17T21:18:19.101203+00:00"
     },
@@ -174,7 +186,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-30",
+      "posted": "2026-08-31",
       "tags": [],
       "first_seen": "2026-08-12T15:52:36.764152+00:00"
     },
@@ -210,7 +222,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-30",
+      "posted": "2026-08-31",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -234,7 +246,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8684348002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-29",
+      "posted": "2026-08-31",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -274,7 +286,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8658878002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-29",
+      "posted": "2026-08-31",
       "tags": [],
       "first_seen": "2026-08-03T19:21:45.240188+00:00"
     },
@@ -298,7 +310,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8512220002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-29",
+      "posted": "2026-08-31",
       "tags": [],
       "first_seen": "2026-07-28T19:12:20.579867+00:00"
     },
@@ -382,7 +394,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8612937002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-29",
+      "posted": "2026-08-31",
       "tags": [],
       "first_seen": "2026-07-08T13:46:38.583205+00:00"
     },
@@ -406,7 +418,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597813002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-29",
+      "posted": "2026-08-31",
       "tags": [],
       "first_seen": "2026-07-02T22:01:00.558970+00:00"
     },
@@ -586,7 +598,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-30",
+      "posted": "2026-08-31",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
