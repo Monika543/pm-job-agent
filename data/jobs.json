@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-01T13:50:05.978516+00:00",
-  "count": 50,
+  "generated_at": "2026-09-01T18:04:47.166051+00:00",
+  "count": 53,
   "jobs": [
+    {
+      "id": "ac204a69485e4709",
+      "title": "Product Manager II - Ads",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-01",
+      "tags": [],
+      "first_seen": "2026-09-01T18:04:47.166051+00:00"
+    },
+    {
+      "id": "01e7dcb346df1ac8",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729527005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-01",
+      "tags": [],
+      "first_seen": "2026-09-01T18:04:47.166051+00:00"
+    },
+    {
+      "id": "9c61d5037744e449",
+      "title": "Product Manager, Developer Ecosystem",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8088720",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-01",
+      "tags": [],
+      "first_seen": "2026-09-01T18:04:47.166051+00:00"
+    },
     {
       "id": "f2aeea996eef4b5b",
       "title": "Principal Product Manager, AI Custom Models",
@@ -382,7 +418,7 @@
       "url": "https://www.coinbase.com/careers/positions/8060662?gh_jid=8060662",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-21",
+      "posted": "2026-09-01",
       "tags": [],
       "first_seen": "2026-07-14T05:22:39.465802+00:00"
     },
