@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-01T00:15:57.836756+00:00",
-  "count": 49,
+  "generated_at": "2026-09-01T08:09:51.983630+00:00",
+  "count": 50,
   "jobs": [
+    {
+      "id": "f2aeea996eef4b5b",
+      "title": "Principal Product Manager, AI Custom Models",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, US",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8564957002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-01",
+      "tags": [],
+      "first_seen": "2026-09-01T08:09:51.983630+00:00"
+    },
     {
       "id": "7566c7388b8f7b9d",
       "title": "Staff Product Manager, Ads Formats",
