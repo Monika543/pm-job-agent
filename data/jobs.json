@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-03T13:09:10.178201+00:00",
-  "count": 53,
+  "generated_at": "2026-09-03T18:16:01.045672+00:00",
+  "count": 54,
   "jobs": [
+    {
+      "id": "4d1a009f5112d47f",
+      "title": "Staff Product Manager, Ads Signals",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8145926",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-03",
+      "tags": [],
+      "first_seen": "2026-09-03T18:16:01.045672+00:00"
+    },
     {
       "id": "ac204a69485e4709",
       "title": "Product Manager II - Ads",
