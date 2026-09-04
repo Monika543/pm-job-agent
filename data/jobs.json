@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-04T07:35:03.106544+00:00",
-  "count": 54,
+  "generated_at": "2026-09-04T13:02:55.948468+00:00",
+  "count": 55,
   "jobs": [
+    {
+      "id": "c903e8b23267ab9f",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729519005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-04",
+      "tags": [],
+      "first_seen": "2026-09-04T13:02:55.948468+00:00"
+    },
     {
       "id": "4d1a009f5112d47f",
       "title": "Staff Product Manager, Ads Signals",
@@ -10,7 +22,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8145926",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-03",
+      "posted": "2026-09-04",
       "tags": [],
       "first_seen": "2026-09-03T18:16:01.045672+00:00"
     },
@@ -70,7 +82,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-03",
+      "posted": "2026-09-04",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -246,7 +258,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-03",
+      "posted": "2026-09-04",
       "tags": [],
       "first_seen": "2026-08-12T15:52:36.764152+00:00"
     },
@@ -282,7 +294,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-03",
+      "posted": "2026-09-04",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -658,7 +670,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-03",
+      "posted": "2026-09-04",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
