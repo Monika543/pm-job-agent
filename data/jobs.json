@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T07:15:43.086599+00:00",
-  "count": 55,
+  "generated_at": "2026-09-05T12:15:02.068041+00:00",
+  "count": 54,
   "jobs": [
     {
       "id": "c903e8b23267ab9f",
@@ -333,22 +333,6 @@
       "posted": "2026-08-06",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
-    },
-    {
-      "id": "d569c4fc7cea341a",
-      "title": "Product Manager",
-      "company": "OpenSkills",
-      "location": "Good Design,",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-openskills-1136133",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-08-05",
-      "tags": [
-        "design",
-        "dev",
-        "digital nomad"
-      ],
-      "first_seen": "2026-08-06T08:20:48.598437+00:00"
     },
     {
       "id": "3a5030f835eccb15",
