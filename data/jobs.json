@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T02:11:49.606833+00:00",
-  "count": 54,
+  "generated_at": "2026-09-07T07:44:29.058257+00:00",
+  "count": 53,
   "jobs": [
     {
       "id": "c903e8b23267ab9f",
@@ -34,7 +34,7 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-02",
+      "posted": "2026-09-07",
       "tags": [],
       "first_seen": "2026-09-01T18:04:47.166051+00:00"
     },
@@ -46,7 +46,7 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729527005",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-02",
+      "posted": "2026-09-07",
       "tags": [],
       "first_seen": "2026-09-01T18:04:47.166051+00:00"
     },
@@ -345,18 +345,6 @@
       "posted": "2026-08-31",
       "tags": [],
       "first_seen": "2026-08-03T19:21:45.240188+00:00"
-    },
-    {
-      "id": "6b6e95f66fa91061",
-      "title": "Senior Product Manager",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4716555005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-07-31",
-      "tags": [],
-      "first_seen": "2026-07-29T13:51:40.583178+00:00"
     },
     {
       "id": "18ee657451ab2ed3",
