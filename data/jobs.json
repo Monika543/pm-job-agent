@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-08T07:40:39.601993+00:00",
-  "count": 54,
+  "generated_at": "2026-09-08T13:12:07.488313+00:00",
+  "count": 55,
   "jobs": [
+    {
+      "id": "3872b0e152f4fce4",
+      "title": "Product Manager  (Internal Platform)",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/2f1dba8f-bc99-4490-8200-d2cd7f92f544",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-08-07",
+      "tags": [],
+      "first_seen": "2026-09-08T13:12:07.488313+00:00"
+    },
     {
       "id": "a8c3bab470c5219d",
       "title": "Product Manager II",
@@ -34,7 +46,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8145926",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-07",
+      "posted": "2026-09-08",
       "tags": [],
       "first_seen": "2026-09-03T18:16:01.045672+00:00"
     },
@@ -51,18 +63,6 @@
       "first_seen": "2026-09-01T18:04:47.166051+00:00"
     },
     {
-      "id": "01e7dcb346df1ac8",
-      "title": "Senior Product Manager",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729527005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-09-07",
-      "tags": [],
-      "first_seen": "2026-09-01T18:04:47.166051+00:00"
-    },
-    {
       "id": "9c61d5037744e449",
       "title": "Product Manager, Developer Ecosystem",
       "company": "Reddit",
@@ -71,6 +71,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-09-01",
+      "tags": [],
+      "first_seen": "2026-09-01T18:04:47.166051+00:00"
+    },
+    {
+      "id": "01e7dcb346df1ac8",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729527005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-07",
       "tags": [],
       "first_seen": "2026-09-01T18:04:47.166051+00:00"
     },
@@ -94,7 +106,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-07",
+      "posted": "2026-09-08",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -270,7 +282,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-07",
+      "posted": "2026-09-08",
       "tags": [],
       "first_seen": "2026-08-12T15:52:36.764152+00:00"
     },
@@ -306,7 +318,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-07",
+      "posted": "2026-09-08",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -654,7 +666,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-07",
+      "posted": "2026-09-08",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
