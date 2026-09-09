@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-09T13:17:34.970980+00:00",
-  "count": 55,
+  "generated_at": "2026-09-09T18:12:56.269072+00:00",
+  "count": 56,
   "jobs": [
+    {
+      "id": "2b4613d7999baafa",
+      "title": "Product Manager, Mobile",
+      "company": "Stripe",
+      "location": "New York City, Toronto, Chicago, or Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8140438",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-09",
+      "tags": [],
+      "first_seen": "2026-09-09T18:12:56.269072+00:00"
+    },
     {
       "id": "3872b0e152f4fce4",
       "title": "Product Manager  (Internal Platform)",
@@ -582,7 +594,7 @@
       "url": "https://www.coinbase.com/careers/positions/7789404?gh_jid=7789404",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-06-26",
+      "posted": "2026-09-09",
       "tags": [],
       "first_seen": "2026-06-12T22:20:22.367606+00:00"
     },
