@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-09-10T17:58:27.934551+00:00",
-  "count": 53,
+  "generated_at": "2026-09-10T20:31:20.498494+00:00",
+  "count": 54,
   "jobs": [
+    {
+      "id": "70f306dcc436fd06",
+      "title": "Product Manager \u00c2\u00b7 New York Chicago Charlotte",
+      "company": "Oula",
+      "location": "New York, New York, New York, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-new-york-chicago-charlotte-oula-1135672",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-07-28",
+      "tags": [
+        "testing",
+        "education",
+        "exec"
+      ],
+      "first_seen": "2026-09-10T20:31:20.498494+00:00"
+    },
     {
       "id": "2b4613d7999baafa",
       "title": "Product Manager, Mobile",
