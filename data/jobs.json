@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T13:08:53.348437+00:00",
-  "count": 52,
+  "generated_at": "2026-09-11T18:05:22.528501+00:00",
+  "count": 49,
   "jobs": [
     {
       "id": "70f306dcc436fd06",
@@ -315,18 +315,6 @@
       "first_seen": "2026-08-12T15:52:36.764152+00:00"
     },
     {
-      "id": "2605fb919406dca8",
-      "title": "Product Manager II - Growth",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/e4aba1e5-ef86-4c50-8985-2e46ff688354",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-02-27",
-      "tags": [],
-      "first_seen": "2026-08-12T15:52:36.764152+00:00"
-    },
-    {
       "id": "580b5e4263837705",
       "title": "Senior Product Manager, Ads -  Shopping Catalogs",
       "company": "Reddit",
@@ -483,18 +471,6 @@
       "first_seen": "2026-07-06T22:08:52.686449+00:00"
     },
     {
-      "id": "9ecc631cc7e3e713",
-      "title": "Principal Product Manager, Engineering Intelligence & Insights",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597813002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-08-31",
-      "tags": [],
-      "first_seen": "2026-07-02T22:01:00.558970+00:00"
-    },
-    {
       "id": "b75d5f4aa1cbfe6c",
       "title": "Agentic Product Manager",
       "company": "Netomi",
@@ -575,18 +551,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-06-26",
-      "tags": [],
-      "first_seen": "2026-06-12T22:20:22.367606+00:00"
-    },
-    {
-      "id": "b207257836d9dda1",
-      "title": "Group Product Manager, Financial Engineering",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/7789404?gh_jid=7789404",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-09-09",
       "tags": [],
       "first_seen": "2026-06-12T22:20:22.367606+00:00"
     },
