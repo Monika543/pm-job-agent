@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T12:32:36.901814+00:00",
-  "count": 49,
+  "generated_at": "2026-09-12T17:35:05.431112+00:00",
+  "count": 48,
   "jobs": [
     {
       "id": "70f306dcc436fd06",
@@ -289,18 +289,6 @@
         "saas"
       ],
       "first_seen": "2026-08-14T01:17:11.740740+00:00"
-    },
-    {
-      "id": "e1a078addd4b9290",
-      "title": "Product Manager I (Platform)",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/2f1dba8f-bc99-4490-8200-d2cd7f92f544",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-08-07",
-      "tags": [],
-      "first_seen": "2026-08-13T12:52:53.624805+00:00"
     },
     {
       "id": "a044592e717e63cc",
