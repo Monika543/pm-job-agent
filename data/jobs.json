@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-09-13T13:33:40.866382+00:00",
-  "count": 47,
+  "generated_at": "2026-09-13T17:48:38.019763+00:00",
+  "count": 48,
   "jobs": [
+    {
+      "id": "4977ac05c099ba6a",
+      "title": "Technical Product Lead AI Finance App",
+      "company": "Bjak",
+      "location": "Seoul",
+      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-09-12",
+      "tags": [
+        "design",
+        "sys admin",
+        "infosec"
+      ],
+      "first_seen": "2026-09-13T17:48:38.019763+00:00"
+    },
     {
       "id": "70f306dcc436fd06",
       "title": "Product Manager \u00c2\u00b7 New York Chicago Charlotte",
