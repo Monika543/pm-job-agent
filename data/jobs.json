@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-14T15:31:33.016205+00:00",
-  "count": 48,
+  "generated_at": "2026-09-14T21:14:29.479906+00:00",
+  "count": 49,
   "jobs": [
+    {
+      "id": "e7d9f5192755babd",
+      "title": "Director of Product Management, Agentic Software Delivery",
+      "company": "GitLab",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8806017002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-14",
+      "tags": [],
+      "first_seen": "2026-09-14T21:14:29.479906+00:00"
+    },
     {
       "id": "4977ac05c099ba6a",
       "title": "Technical Product Lead AI Finance App",
@@ -138,7 +150,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8564957002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-01",
+      "posted": "2026-09-14",
       "tags": [],
       "first_seen": "2026-09-01T08:09:51.983630+00:00"
     },
@@ -210,7 +222,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597805002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-31",
+      "posted": "2026-09-14",
       "tags": [],
       "first_seen": "2026-08-24T18:28:25.190951+00:00"
     },
@@ -270,7 +282,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8697043002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-31",
+      "posted": "2026-09-14",
       "tags": [],
       "first_seen": "2026-08-17T21:18:19.101203+00:00"
     },
@@ -322,7 +334,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8684348002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-31",
+      "posted": "2026-09-14",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -346,7 +358,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8658878002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-31",
+      "posted": "2026-09-14",
       "tags": [],
       "first_seen": "2026-08-03T19:21:45.240188+00:00"
     },
@@ -358,7 +370,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8512220002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-31",
+      "posted": "2026-09-14",
       "tags": [],
       "first_seen": "2026-07-28T19:12:20.579867+00:00"
     },
@@ -418,7 +430,7 @@
       "url": "https://www.coinbase.com/careers/positions/8060662?gh_jid=8060662",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-01",
+      "posted": "2026-09-14",
       "tags": [],
       "first_seen": "2026-07-14T05:22:39.465802+00:00"
     },
@@ -442,7 +454,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8612937002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-08-31",
+      "posted": "2026-09-14",
       "tags": [],
       "first_seen": "2026-07-08T13:46:38.583205+00:00"
     },
@@ -454,7 +466,7 @@
       "url": "https://www.coinbase.com/careers/positions/8031208?gh_jid=8031208",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-07-06",
+      "posted": "2026-09-14",
       "tags": [],
       "first_seen": "2026-07-06T22:08:52.686449+00:00"
     },
