@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-15T14:03:27.778323+00:00",
-  "count": 49,
+  "generated_at": "2026-09-15T18:38:36.864289+00:00",
+  "count": 50,
   "jobs": [
+    {
+      "id": "165bedc06df1a2a7",
+      "title": "Product Manager II, Growth - Notifications",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8204571?gh_jid=8204571",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-15",
+      "tags": [],
+      "first_seen": "2026-09-15T18:38:36.864289+00:00"
+    },
     {
       "id": "22967daabaa451f6",
       "title": "Product Manager II - User Discovery",
