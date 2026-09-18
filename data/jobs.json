@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-18T13:17:10.160759+00:00",
-  "count": 51,
+  "generated_at": "2026-09-18T17:58:58.417762+00:00",
+  "count": 52,
   "jobs": [
+    {
+      "id": "5eed248db1627675",
+      "title": "Staff Product Manager, Sail Core",
+      "company": "Stripe",
+      "location": "New York, US - Remote, Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913698",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-18",
+      "tags": [],
+      "first_seen": "2026-09-18T17:58:58.417762+00:00"
+    },
     {
       "id": "ee8ad996e123996a",
       "title": "Principal Product Manager",
