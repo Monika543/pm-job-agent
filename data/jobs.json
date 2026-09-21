@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-21T15:31:51.768995+00:00",
+  "generated_at": "2026-09-21T21:30:30.580687+00:00",
   "count": 50,
   "jobs": [
+    {
+      "id": "3674694efd60a90a",
+      "title": "Senior Product Manager, Enterprise",
+      "company": "Stripe",
+      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-21",
+      "tags": [],
+      "first_seen": "2026-09-21T21:30:30.580687+00:00"
+    },
     {
       "id": "608c7b12d450e6f8",
       "title": "Staff Product Manager, Payments Intelligence",
@@ -493,18 +505,6 @@
       "posted": "2026-07-02",
       "tags": [],
       "first_seen": "2026-07-02T06:33:56.905866+00:00"
-    },
-    {
-      "id": "57355b528a55358c",
-      "title": "Staff Product Manager, Enterprise",
-      "company": "Stripe",
-      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-09-10",
-      "tags": [],
-      "first_seen": "2026-07-01T22:13:59.565348+00:00"
     },
     {
       "id": "69315883598b1f9d",
