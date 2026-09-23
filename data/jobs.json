@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-23T08:09:15.288220+00:00",
+  "generated_at": "2026-09-23T18:45:15.066314+00:00",
   "count": 52,
   "jobs": [
+    {
+      "id": "b276441478edac28",
+      "title": "Senior Product Manager, Agentic Source Code",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, US",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597805002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-23",
+      "tags": [],
+      "first_seen": "2026-09-23T18:45:15.066314+00:00"
+    },
     {
       "id": "0369bbb512ec8640",
       "title": "Senior Growth Product Manager AI Native",
@@ -218,7 +230,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8145926",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-22",
+      "posted": "2026-09-23",
       "tags": [],
       "first_seen": "2026-09-03T18:16:01.045672+00:00"
     },
@@ -278,7 +290,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-22",
+      "posted": "2026-09-23",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -331,18 +343,6 @@
       "first_seen": "2026-08-25T15:34:33.278680+00:00"
     },
     {
-      "id": "b840e466576626a9",
-      "title": "Senior Product Manager, Source Code",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597805002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-09-14",
-      "tags": [],
-      "first_seen": "2026-08-24T18:28:25.190951+00:00"
-    },
-    {
       "id": "00fa2f17079441e4",
       "title": "Product Manager II, Workspace and Multi-User",
       "company": "Coinbase",
@@ -386,7 +386,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-22",
+      "posted": "2026-09-23",
       "tags": [],
       "first_seen": "2026-08-12T15:52:36.764152+00:00"
     },
@@ -398,7 +398,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-22",
+      "posted": "2026-09-23",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -638,7 +638,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-22",
+      "posted": "2026-09-23",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
