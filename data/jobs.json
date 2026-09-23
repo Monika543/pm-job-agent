@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T18:45:15.066314+00:00",
-  "count": 52,
+  "generated_at": "2026-09-23T23:22:36.162115+00:00",
+  "count": 51,
   "jobs": [
     {
       "id": "b276441478edac28",
@@ -401,18 +401,6 @@
       "posted": "2026-09-23",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
-    },
-    {
-      "id": "4ffb596b75476171",
-      "title": "Senior Product Manager, Growth",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8684348002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-09-14",
-      "tags": [],
-      "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
     {
       "id": "da820bd247922f62",
