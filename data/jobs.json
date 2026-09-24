@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T18:45:51.846690+00:00",
-  "count": 52,
+  "generated_at": "2026-09-24T23:42:04.712360+00:00",
+  "count": 51,
   "jobs": [
     {
       "id": "9555e6dc0f2e7316",
@@ -347,18 +347,6 @@
       "first_seen": "2026-08-26T12:36:12.073969+00:00"
     },
     {
-      "id": "5ae607c7c4378b6b",
-      "title": "Senior Enterprise Product Manager, FP&A",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8154856?gh_jid=8154856",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-08-25",
-      "tags": [],
-      "first_seen": "2026-08-25T21:19:47.470032+00:00"
-    },
-    {
       "id": "00fa2f17079441e4",
       "title": "Product Manager II, Workspace and Multi-User",
       "company": "Coinbase",
@@ -522,7 +510,7 @@
       "url": "https://www.coinbase.com/careers/positions/8031208?gh_jid=8031208",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-14",
+      "posted": "2026-09-24",
       "tags": [],
       "first_seen": "2026-07-06T22:08:52.686449+00:00"
     },
