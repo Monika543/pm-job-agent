@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-24T13:56:24.070834+00:00",
+  "generated_at": "2026-09-24T18:45:51.846690+00:00",
   "count": 52,
   "jobs": [
+    {
+      "id": "9555e6dc0f2e7316",
+      "title": "Staff Product Manager, Dashboard",
+      "company": "Stripe",
+      "location": "San Francisco, Seattle, NYC, Chicago, Atlanta, US Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7913702",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-24",
+      "tags": [],
+      "first_seen": "2026-09-24T18:45:51.846690+00:00"
+    },
     {
       "id": "c7b28620edb06613",
       "title": "Technical Product Manager AI Stockbroking App",
@@ -345,18 +357,6 @@
       "posted": "2026-08-25",
       "tags": [],
       "first_seen": "2026-08-25T21:19:47.470032+00:00"
-    },
-    {
-      "id": "7820e7c41c095f65",
-      "title": "Product Manager, Sail Core",
-      "company": "Stripe",
-      "location": "New York, US - Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7913698",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-09-10",
-      "tags": [],
-      "first_seen": "2026-08-25T15:34:33.278680+00:00"
     },
     {
       "id": "00fa2f17079441e4",
