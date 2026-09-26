@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-26T13:32:14.653350+00:00",
-  "count": 51,
+  "generated_at": "2026-09-26T18:11:43.597568+00:00",
+  "count": 52,
   "jobs": [
+    {
+      "id": "46b4afb01f5ff80b",
+      "title": "Group Product Manager, Money Movement",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8234060?gh_jid=8234060",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-26",
+      "tags": [],
+      "first_seen": "2026-09-26T18:11:43.597568+00:00"
+    },
     {
       "id": "feb915161ba593b1",
       "title": "Group Product Manager, FinHub",
