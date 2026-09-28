@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-28T02:54:07.848211+00:00",
-  "count": 52,
+  "generated_at": "2026-09-28T09:12:16.309895+00:00",
+  "count": 55,
   "jobs": [
+    {
+      "id": "3532748d8718cdd0",
+      "title": "Product Manager  - Platforms",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/2f1dba8f-bc99-4490-8200-d2cd7f92f544",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-08-07",
+      "tags": [],
+      "first_seen": "2026-09-28T09:12:16.309895+00:00"
+    },
+    {
+      "id": "f6f54a7b1233e276",
+      "title": "Senior Product Manager",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/2028b73c-2ae0-4fca-903e-481b8c500629",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-09-28",
+      "tags": [],
+      "first_seen": "2026-09-28T09:12:16.309895+00:00"
+    },
+    {
+      "id": "caac7efe1e5aaad7",
+      "title": "Senior Product Manager - Data & Analytics Platform",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/97ce9e5a-a8bb-446d-a8db-9078603b106f",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-09-23",
+      "tags": [],
+      "first_seen": "2026-09-28T09:12:16.309895+00:00"
+    },
     {
       "id": "46b4afb01f5ff80b",
       "title": "Group Product Manager, Money Movement",
@@ -166,7 +202,7 @@
       "url": "https://www.coinbase.com/careers/positions/8204571?gh_jid=8204571",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-15",
+      "posted": "2026-09-28",
       "tags": [],
       "first_seen": "2026-09-15T18:38:36.864289+00:00"
     },
