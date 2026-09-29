@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-29T17:23:59.300575+00:00",
-  "count": 55,
+  "generated_at": "2026-09-29T21:43:17.197138+00:00",
+  "count": 56,
   "jobs": [
+    {
+      "id": "cd21b31d60fdcc85",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-29",
+      "tags": [],
+      "first_seen": "2026-09-29T21:43:17.197138+00:00"
+    },
     {
       "id": "f6f54a7b1233e276",
       "title": "Senior Product Manager",
