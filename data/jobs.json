@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-30T17:22:14.125149+00:00",
+  "generated_at": "2026-09-30T21:43:29.193745+00:00",
   "count": 56,
   "jobs": [
+    {
+      "id": "cede63014fe51217",
+      "title": "Senior Product Manager, Billing Engine & Platforms Monetization",
+      "company": "GitLab",
+      "location": "Remote, United Kingdom",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8845483002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-09-30",
+      "tags": [],
+      "first_seen": "2026-09-30T21:43:29.193745+00:00"
+    },
     {
       "id": "cd21b31d60fdcc85",
       "title": "Product Manager II",
@@ -477,18 +489,6 @@
       "posted": "2026-08-06",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
-    },
-    {
-      "id": "3a5030f835eccb15",
-      "title": "Principal Product Manager, AI Software Factory",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8658878002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-09-29",
-      "tags": [],
-      "first_seen": "2026-08-03T19:21:45.240188+00:00"
     },
     {
       "id": "18ee657451ab2ed3",
