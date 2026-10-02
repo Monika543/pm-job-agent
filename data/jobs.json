@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-01T20:01:08.754188+00:00",
-  "count": 54,
+  "generated_at": "2026-10-02T00:22:52.703699+00:00",
+  "count": 55,
   "jobs": [
+    {
+      "id": "ab6a70b11726b31a",
+      "title": "Group Product Manager, Customer Engagement & Experience",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8247881?gh_jid=8247881",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-01",
+      "tags": [],
+      "first_seen": "2026-10-02T00:22:52.703699+00:00"
+    },
     {
       "id": "3a5030f835eccb15",
       "title": "Principal Product Manager, AI Software Factory",
