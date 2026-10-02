@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-02T17:10:28.285213+00:00",
-  "count": 56,
+  "generated_at": "2026-10-02T21:39:35.784675+00:00",
+  "count": 57,
   "jobs": [
+    {
+      "id": "3ce8cff64af618a5",
+      "title": "Senior Product Manager, CRM & GTM Systems",
+      "company": "GitLab",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8855883002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-02",
+      "tags": [],
+      "first_seen": "2026-10-02T21:39:35.784675+00:00"
+    },
     {
       "id": "00181103dc8020cb",
       "title": "Staff Product Manager, Mobile",
