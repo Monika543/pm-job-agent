@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-05T13:12:29.516079+00:00",
-  "count": 56,
+  "generated_at": "2026-10-05T21:45:32.454778+00:00",
+  "count": 57,
   "jobs": [
+    {
+      "id": "2d79a1fe025d2594",
+      "title": "Senior Director of Product, Advertiser Platform & Advertiser Experiences",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746311",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-05",
+      "tags": [],
+      "first_seen": "2026-10-05T21:45:32.454778+00:00"
+    },
+    {
+      "id": "323ef881ecdaadf6",
+      "title": "Product Manager II",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/b56573f0-c701-422a-abfa-ac8bbdbfa645",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-08-12",
+      "tags": [],
+      "first_seen": "2026-10-05T21:45:32.454778+00:00"
+    },
     {
       "id": "3ce8cff64af618a5",
       "title": "Senior Product Manager, CRM & GTM Systems",
@@ -58,7 +82,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8237639",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-01",
+      "posted": "2026-10-05",
       "tags": [],
       "first_seen": "2026-10-01T20:01:08.754188+00:00"
     },
@@ -498,7 +522,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-02",
+      "posted": "2026-10-05",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -573,18 +597,6 @@
       "posted": "2026-09-29",
       "tags": [],
       "first_seen": "2026-07-08T13:46:38.583205+00:00"
-    },
-    {
-      "id": "461ee56e36a5bc3b",
-      "title": "Senior Product Manager, Help Center (CX Automation)",
-      "company": "Coinbase",
-      "location": "Remote - India",
-      "url": "https://www.coinbase.com/careers/positions/8031208?gh_jid=8031208",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-09-26",
-      "tags": [],
-      "first_seen": "2026-07-06T22:08:52.686449+00:00"
     },
     {
       "id": "b75d5f4aa1cbfe6c",
