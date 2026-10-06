@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-06T12:31:54.345489+00:00",
-  "count": 59,
+  "generated_at": "2026-10-06T19:55:40.690852+00:00",
+  "count": 61,
   "jobs": [
+    {
+      "id": "fb7f4abff6c0348f",
+      "title": "Product Manager, Radar",
+      "company": "Stripe",
+      "location": "San Francisco, Seattle, New York, US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7983854",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-06",
+      "tags": [],
+      "first_seen": "2026-10-06T19:55:40.690852+00:00"
+    },
+    {
+      "id": "03c9bbbdf9467b1d",
+      "title": "Staff Product Manager, Radar - Fraud and Abuse Prevention",
+      "company": "Stripe",
+      "location": "San Francisco, Seattle, New York, US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8258815",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-06",
+      "tags": [],
+      "first_seen": "2026-10-06T19:55:40.690852+00:00"
+    },
     {
       "id": "8842ede546c5a385",
       "title": "Product Manager II",
@@ -34,7 +58,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7746311",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-05",
+      "posted": "2026-10-06",
       "tags": [],
       "first_seen": "2026-10-05T21:45:32.454778+00:00"
     },
@@ -106,7 +130,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8237639",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-05",
+      "posted": "2026-10-06",
       "tags": [],
       "first_seen": "2026-10-01T20:01:08.754188+00:00"
     },
@@ -546,7 +570,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-05",
+      "posted": "2026-10-06",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
