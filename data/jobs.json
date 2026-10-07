@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-10-07T09:36:31.918301+00:00",
-  "count": 62,
+  "generated_at": "2026-10-07T18:13:31.093564+00:00",
+  "count": 64,
   "jobs": [
+    {
+      "id": "c7706f27e8b61c53",
+      "title": "Staff Product Manager, AI Software Factory PLG",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8875518002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-07",
+      "tags": [],
+      "first_seen": "2026-10-07T18:13:31.093564+00:00"
+    },
+    {
+      "id": "fb4913a0056e16bb",
+      "title": "Staff Product Manager, Community Builders",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7996994",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-07",
+      "tags": [],
+      "first_seen": "2026-10-07T18:13:31.093564+00:00"
+    },
+    {
+      "id": "78d5f4fccd96c6b8",
+      "title": "Staff Product Manager, Moderation",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8088710",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-07",
+      "tags": [],
+      "first_seen": "2026-10-07T18:13:31.093564+00:00"
+    },
     {
       "id": "c17a16ceb056493f",
       "title": "Product Manager II, DeFi Borrow",
@@ -22,7 +58,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7983854",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-06",
+      "posted": "2026-10-07",
       "tags": [],
       "first_seen": "2026-10-06T19:55:40.690852+00:00"
     },
@@ -34,7 +70,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8258815",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-06",
+      "posted": "2026-10-07",
       "tags": [],
       "first_seen": "2026-10-06T19:55:40.690852+00:00"
     },
@@ -318,7 +354,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8209996",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-25",
+      "posted": "2026-10-07",
       "tags": [],
       "first_seen": "2026-09-21T15:31:51.768995+00:00"
     },
@@ -498,7 +534,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-06",
+      "posted": "2026-10-07",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -582,7 +618,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-06",
+      "posted": "2026-10-07",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -729,18 +765,6 @@
       "posted": "2026-06-11",
       "tags": [],
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
-    },
-    {
-      "id": "cae06ffeaa3ccd5d",
-      "title": "Product Manager, Payments",
-      "company": "Stripe",
-      "location": "SF, NY, SEA, Remote-US",
-      "url": "https://stripe.com/jobs/search?gh_jid=7176530",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-09-25",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
       "id": "fcf90902521eef65",
