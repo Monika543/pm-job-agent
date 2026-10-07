@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-06T19:55:40.690852+00:00",
-  "count": 61,
+  "generated_at": "2026-10-07T00:16:53.454349+00:00",
+  "count": 62,
   "jobs": [
+    {
+      "id": "c17a16ceb056493f",
+      "title": "Product Manager II, DeFi Borrow",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8259870?gh_jid=8259870",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-06",
+      "tags": [],
+      "first_seen": "2026-10-07T00:16:53.454349+00:00"
+    },
     {
       "id": "fb7f4abff6c0348f",
       "title": "Product Manager, Radar",
@@ -51,18 +63,6 @@
       "first_seen": "2026-10-06T12:31:54.345489+00:00"
     },
     {
-      "id": "2d79a1fe025d2594",
-      "title": "Senior Director of Product, Advertiser Platform & Advertiser Experiences",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746311",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-06",
-      "tags": [],
-      "first_seen": "2026-10-05T21:45:32.454778+00:00"
-    },
-    {
       "id": "323ef881ecdaadf6",
       "title": "Product Manager II",
       "company": "Meesho",
@@ -71,6 +71,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-08-12",
+      "tags": [],
+      "first_seen": "2026-10-05T21:45:32.454778+00:00"
+    },
+    {
+      "id": "2d79a1fe025d2594",
+      "title": "Senior Director of Product, Advertiser Platform & Advertiser Experiences",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746311",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-06",
       "tags": [],
       "first_seen": "2026-10-05T21:45:32.454778+00:00"
     },
