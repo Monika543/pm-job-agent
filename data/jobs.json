@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-09T09:51:30.087633+00:00",
+  "generated_at": "2026-10-09T17:48:13.507448+00:00",
   "count": 59,
   "jobs": [
+    {
+      "id": "eee3cdb6f5f028cc",
+      "title": "Lead Product Manager(SaaS + AI)",
+      "company": "Zenoti",
+      "location": "Hyderabad, Telangana, India",
+      "url": "https://job-boards.greenhouse.io/zenoti/jobs/7806709003",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-09",
+      "tags": [],
+      "first_seen": "2026-10-09T17:48:13.507448+00:00"
+    },
     {
       "id": "c7706f27e8b61c53",
       "title": "Staff Product Manager, AI Software Factory PLG",
@@ -486,7 +498,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-08",
+      "posted": "2026-10-09",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -534,7 +546,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-08",
+      "posted": "2026-10-09",
       "tags": [],
       "first_seen": "2026-08-12T15:52:36.764152+00:00"
     },
@@ -546,7 +558,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-08",
+      "posted": "2026-10-09",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -558,21 +570,9 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-08",
+      "posted": "2026-10-09",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
-    },
-    {
-      "id": "18ee657451ab2ed3",
-      "title": "Senior Product Manager, Tenant Scale",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8512220002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-09-29",
-      "tags": [],
-      "first_seen": "2026-07-28T19:12:20.579867+00:00"
     },
     {
       "id": "10dc7077fb42e4e6",
@@ -726,7 +726,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-08",
+      "posted": "2026-10-09",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
