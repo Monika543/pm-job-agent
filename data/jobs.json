@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T17:48:13.507448+00:00",
-  "count": 59,
+  "generated_at": "2026-10-09T22:04:35.925181+00:00",
+  "count": 58,
   "jobs": [
     {
       "id": "eee3cdb6f5f028cc",
@@ -477,18 +477,6 @@
         "exec"
       ],
       "first_seen": "2026-09-10T20:31:20.498494+00:00"
-    },
-    {
-      "id": "2b4613d7999baafa",
-      "title": "Product Manager, Mobile",
-      "company": "Stripe",
-      "location": "New York City, Toronto, Chicago, or Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8140438",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-09-25",
-      "tags": [],
-      "first_seen": "2026-09-09T18:12:56.269072+00:00"
     },
     {
       "id": "7566c7388b8f7b9d",
