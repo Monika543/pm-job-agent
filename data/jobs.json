@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-12T14:03:16.609983+00:00",
+  "generated_at": "2026-10-12T22:20:08.421157+00:00",
   "count": 57,
   "jobs": [
+    {
+      "id": "777cf16e75a53225",
+      "title": "Product Manager, Radar - Fraud and Abuse Prevention",
+      "company": "Stripe",
+      "location": "San Francisco, Seattle, New York, US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8258815",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-12",
+      "tags": [],
+      "first_seen": "2026-10-12T22:20:08.421157+00:00"
+    },
     {
       "id": "eee3cdb6f5f028cc",
       "title": "Lead Product Manager(SaaS + AI)",
@@ -166,7 +178,7 @@
       "url": "https://www.coinbase.com/careers/positions/8247881?gh_jid=8247881",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-01",
+      "posted": "2026-10-12",
       "tags": [],
       "first_seen": "2026-10-02T00:22:52.703699+00:00"
     },
@@ -511,18 +523,6 @@
       "first_seen": "2026-08-21T18:25:32.900556+00:00"
     },
     {
-      "id": "a044592e717e63cc",
-      "title": "Staff Product Manager, Ads Safety (Ads Review)",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8070669",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-12",
-      "tags": [],
-      "first_seen": "2026-08-12T15:52:36.764152+00:00"
-    },
-    {
       "id": "580b5e4263837705",
       "title": "Senior Product Manager, Ads -  Shopping Catalogs",
       "company": "Reddit",
@@ -578,7 +578,7 @@
       "url": "https://www.coinbase.com/careers/positions/8060662?gh_jid=8060662",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-14",
+      "posted": "2026-10-12",
       "tags": [],
       "first_seen": "2026-07-14T05:22:39.465802+00:00"
     },
