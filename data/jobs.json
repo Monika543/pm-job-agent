@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-13T13:16:55.899819+00:00",
-  "count": 57,
+  "generated_at": "2026-10-13T20:27:02.217167+00:00",
+  "count": 59,
   "jobs": [
+    {
+      "id": "0e23151969bebd16",
+      "title": "Principal Product Manager, Orbit",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871798002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-13",
+      "tags": [],
+      "first_seen": "2026-10-13T20:27:02.217167+00:00"
+    },
+    {
+      "id": "244612546d237c92",
+      "title": "Staff Product Manager, Agentic Test Intelligence",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871820002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-13",
+      "tags": [],
+      "first_seen": "2026-10-13T20:27:02.217167+00:00"
+    },
     {
       "id": "777cf16e75a53225",
       "title": "Product Manager, Radar - Fraud and Abuse Prevention",
@@ -626,7 +650,7 @@
       "url": "https://www.coinbase.com/careers/positions/7997785?gh_jid=7997785",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-28",
+      "posted": "2026-10-13",
       "tags": [],
       "first_seen": "2026-06-20T02:41:38.244448+00:00"
     },
@@ -638,7 +662,7 @@
       "url": "https://www.coinbase.com/careers/positions/8017607?gh_jid=8017607",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-28",
+      "posted": "2026-10-13",
       "tags": [],
       "first_seen": "2026-06-19T19:29:37.880567+00:00"
     },
