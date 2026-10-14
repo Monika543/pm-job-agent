@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-14T08:15:59.274446+00:00",
-  "count": 60,
+  "generated_at": "2026-10-14T14:13:58.632415+00:00",
+  "count": 62,
   "jobs": [
+    {
+      "id": "50c238ba2b3692b3",
+      "title": "Product Manager II, Advanced Trade",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8258909?gh_jid=8258909",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-14",
+      "tags": [],
+      "first_seen": "2026-10-14T14:13:58.632415+00:00"
+    },
+    {
+      "id": "b21221790097caed",
+      "title": "Senior Product Manager : F&E",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/102d5a7e-0292-4ddc-8ebc-ba191119349e",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-10-09",
+      "tags": [],
+      "first_seen": "2026-10-14T14:13:58.632415+00:00"
+    },
     {
       "id": "d39b33119510b077",
       "title": "Principal Product Manager Strategic Initiatives",
@@ -98,7 +122,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7996994",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-07",
+      "posted": "2026-10-14",
       "tags": [],
       "first_seen": "2026-10-07T18:13:31.093564+00:00"
     },
@@ -110,7 +134,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8088710",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-07",
+      "posted": "2026-10-14",
       "tags": [],
       "first_seen": "2026-10-07T18:13:31.093564+00:00"
     },
@@ -254,7 +278,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8237639",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-06",
+      "posted": "2026-10-14",
       "tags": [],
       "first_seen": "2026-10-01T20:01:08.754188+00:00"
     },
@@ -283,18 +307,6 @@
       "first_seen": "2026-09-29T21:43:17.197138+00:00"
     },
     {
-      "id": "f6f54a7b1233e276",
-      "title": "Senior Product Manager",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/2028b73c-2ae0-4fca-903e-481b8c500629",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-09-28",
-      "tags": [],
-      "first_seen": "2026-09-28T09:12:16.309895+00:00"
-    },
-    {
       "id": "caac7efe1e5aaad7",
       "title": "Senior Product Manager - Data & Analytics Platform",
       "company": "Meesho",
@@ -303,6 +315,18 @@
       "source": "Lever",
       "salary": null,
       "posted": "2026-09-23",
+      "tags": [],
+      "first_seen": "2026-09-28T09:12:16.309895+00:00"
+    },
+    {
+      "id": "f6f54a7b1233e276",
+      "title": "Senior Product Manager",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/2028b73c-2ae0-4fca-903e-481b8c500629",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-09-28",
       "tags": [],
       "first_seen": "2026-09-28T09:12:16.309895+00:00"
     },
@@ -534,7 +558,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-13",
+      "posted": "2026-10-14",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -582,7 +606,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-13",
+      "posted": "2026-10-14",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -594,7 +618,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-13",
+      "posted": "2026-10-14",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -738,7 +762,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-13",
+      "posted": "2026-10-14",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
