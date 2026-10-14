@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-10-14T00:02:56.824668+00:00",
-  "count": 59,
+  "generated_at": "2026-10-14T08:15:59.274446+00:00",
+  "count": 60,
   "jobs": [
+    {
+      "id": "d39b33119510b077",
+      "title": "Principal Product Manager Strategic Initiatives",
+      "company": "Thyme Care",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-10-13",
+      "tags": [
+        "product manager",
+        "exec",
+        "technical"
+      ],
+      "first_seen": "2026-10-14T08:15:59.274446+00:00"
+    },
+    {
+      "id": "4ffbb8416992bd80",
+      "title": "Product Manager II - Growth (Anchit)",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/b56573f0-c701-422a-abfa-ac8bbdbfa645",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-08-12",
+      "tags": [],
+      "first_seen": "2026-10-14T08:15:59.274446+00:00"
+    },
     {
       "id": "0e23151969bebd16",
       "title": "Principal Product Manager, Orbit",
@@ -250,7 +278,7 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4736965005",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-09-29",
+      "posted": "2026-10-14",
       "tags": [],
       "first_seen": "2026-09-29T21:43:17.197138+00:00"
     },
@@ -581,18 +609,6 @@
       "posted": "2026-06-29",
       "tags": [],
       "first_seen": "2026-07-27T06:20:37.301841+00:00"
-    },
-    {
-      "id": "9e1ad684f29ca9da",
-      "title": "Head of Product Creative",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/7304930?gh_jid=7304930",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-13",
-      "tags": [],
-      "first_seen": "2026-07-21T19:07:20.687550+00:00"
     },
     {
       "id": "eb359234ffd545a1",
