@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T13:49:31.310472+00:00",
-  "count": 62,
+  "generated_at": "2026-10-15T18:48:09.947148+00:00",
+  "count": 61,
   "jobs": [
     {
       "id": "50c238ba2b3692b3",
@@ -254,7 +254,7 @@
       "url": "https://www.coinbase.com/careers/positions/8247881?gh_jid=8247881",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-13",
+      "posted": "2026-10-15",
       "tags": [],
       "first_seen": "2026-10-02T00:22:52.703699+00:00"
     },
@@ -278,7 +278,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8237639",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-14",
+      "posted": "2026-10-15",
       "tags": [],
       "first_seen": "2026-10-01T20:01:08.754188+00:00"
     },
@@ -511,18 +511,6 @@
       "first_seen": "2026-09-15T18:38:36.864289+00:00"
     },
     {
-      "id": "22967daabaa451f6",
-      "title": "Product Manager II - User Discovery",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-08-18",
-      "tags": [],
-      "first_seen": "2026-09-15T14:03:27.778323+00:00"
-    },
-    {
       "id": "e7d9f5192755babd",
       "title": "Director of Product Management, Agentic Software Delivery",
       "company": "GitLab",
@@ -642,7 +630,7 @@
       "url": "https://www.coinbase.com/careers/positions/8060662?gh_jid=8060662",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-13",
+      "posted": "2026-10-15",
       "tags": [],
       "first_seen": "2026-07-14T05:22:39.465802+00:00"
     },
