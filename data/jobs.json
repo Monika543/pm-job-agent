@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-17T02:26:08.171473+00:00",
-  "count": 62,
+  "generated_at": "2026-10-17T07:23:16.427815+00:00",
+  "count": 61,
   "jobs": [
     {
       "id": "95587c7c489a9885",
@@ -481,22 +481,6 @@
       "posted": "2026-10-07",
       "tags": [],
       "first_seen": "2026-09-18T17:58:58.417762+00:00"
-    },
-    {
-      "id": "ee8ad996e123996a",
-      "title": "Principal Product Manager",
-      "company": "DomainTools",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-domaintools-1137396",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-09-16",
-      "tags": [
-        "product manager",
-        "exec",
-        "infosec"
-      ],
-      "first_seen": "2026-09-17T02:45:58.517680+00:00"
     },
     {
       "id": "4d5be4573c408063",
