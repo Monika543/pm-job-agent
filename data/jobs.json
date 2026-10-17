@@ -1,7 +1,23 @@
 {
-  "generated_at": "2026-10-17T12:36:36.539920+00:00",
-  "count": 61,
+  "generated_at": "2026-10-17T17:40:46.251672+00:00",
+  "count": 62,
   "jobs": [
+    {
+      "id": "48c72eea34622b6d",
+      "title": "Director of Product Management and IT Operations",
+      "company": "Self Bill Pro",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
+      "source": "RemoteOK",
+      "salary": "$130,000\u2013$160,000",
+      "posted": "2026-10-16",
+      "tags": [
+        "product manager",
+        "exec",
+        "infosec"
+      ],
+      "first_seen": "2026-10-17T17:40:46.251672+00:00"
+    },
     {
       "id": "95587c7c489a9885",
       "title": "Product Manager I",
