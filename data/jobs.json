@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-20T13:59:49.662029+00:00",
-  "count": 62,
+  "generated_at": "2026-10-20T18:50:42.948107+00:00",
+  "count": 63,
   "jobs": [
+    {
+      "id": "ce1d66639e2b7d89",
+      "title": "Staff Product Manager, Youth",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8238227",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-20",
+      "tags": [],
+      "first_seen": "2026-10-20T18:50:42.948107+00:00"
+    },
     {
       "id": "48c72eea34622b6d",
       "title": "Director of Product Management and IT Operations",
