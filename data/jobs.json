@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-21T14:16:01.982092+00:00",
-  "count": 63,
+  "generated_at": "2026-10-21T19:02:59.522501+00:00",
+  "count": 65,
   "jobs": [
+    {
+      "id": "1f9f405ce0fb803d",
+      "title": "Product Manager, Radar",
+      "company": "Stripe",
+      "location": "San Francisco, Seattle New York, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8301646",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-21",
+      "tags": [],
+      "first_seen": "2026-10-21T19:02:59.522501+00:00"
+    },
+    {
+      "id": "1bf12ca2e3219bc0",
+      "title": "Product Manager, Radar - Fraud and Abuse Prevention",
+      "company": "Stripe",
+      "location": "San Francisco, Seattle, New York, US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8306158",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-21",
+      "tags": [],
+      "first_seen": "2026-10-21T19:02:59.522501+00:00"
+    },
     {
       "id": "ce1d66639e2b7d89",
       "title": "Staff Product Manager, Youth",
@@ -282,7 +306,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8140438",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-20",
+      "posted": "2026-10-21",
       "tags": [],
       "first_seen": "2026-10-02T17:10:28.285213+00:00"
     },
@@ -414,7 +438,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7913702",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-20",
+      "posted": "2026-10-21",
       "tags": [],
       "first_seen": "2026-09-24T18:45:51.846690+00:00"
     },
@@ -482,7 +506,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7812856",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-20",
+      "posted": "2026-10-21",
       "tags": [],
       "first_seen": "2026-09-21T21:30:30.580687+00:00"
     },
@@ -494,7 +518,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8209996",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-20",
+      "posted": "2026-10-21",
       "tags": [],
       "first_seen": "2026-09-21T15:31:51.768995+00:00"
     },
@@ -506,7 +530,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7913698",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-20",
+      "posted": "2026-10-21",
       "tags": [],
       "first_seen": "2026-09-18T17:58:58.417762+00:00"
     },
@@ -582,7 +606,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8165137",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-20",
+      "posted": "2026-10-21",
       "tags": [],
       "first_seen": "2026-08-28T23:47:33.139779+00:00"
     },
@@ -606,7 +630,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7983725",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-20",
+      "posted": "2026-10-21",
       "tags": [],
       "first_seen": "2026-08-21T18:25:32.900556+00:00"
     },
@@ -666,7 +690,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7517535",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-20",
+      "posted": "2026-10-21",
       "tags": [],
       "first_seen": "2026-07-09T22:15:19.578629+00:00"
     },
@@ -726,7 +750,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7392697",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-20",
+      "posted": "2026-10-21",
       "tags": [],
       "first_seen": "2026-06-17T17:47:13.036200+00:00"
     },
@@ -762,7 +786,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7819059",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-20",
+      "posted": "2026-10-21",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
