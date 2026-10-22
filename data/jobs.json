@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T14:15:22.133092+00:00",
-  "count": 66,
+  "generated_at": "2026-10-22T18:58:58.762611+00:00",
+  "count": 65,
   "jobs": [
     {
       "id": "0f0165797b0cf5dd",
@@ -146,11 +146,11 @@
       "first_seen": "2026-10-14T08:15:59.274446+00:00"
     },
     {
-      "id": "0e23151969bebd16",
-      "title": "Principal Product Manager, Orbit",
+      "id": "244612546d237c92",
+      "title": "Staff Product Manager, Agentic Test Intelligence",
       "company": "GitLab",
       "location": "Remote, Canada; Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871798002",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871820002",
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-10-15",
@@ -158,11 +158,11 @@
       "first_seen": "2026-10-13T20:27:02.217167+00:00"
     },
     {
-      "id": "244612546d237c92",
-      "title": "Staff Product Manager, Agentic Test Intelligence",
+      "id": "0e23151969bebd16",
+      "title": "Principal Product Manager, Orbit",
       "company": "GitLab",
       "location": "Remote, Canada; Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871820002",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871798002",
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-10-15",
@@ -792,18 +792,6 @@
       "posted": "2026-06-11",
       "tags": [],
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
-    },
-    {
-      "id": "fcf90902521eef65",
-      "title": "Staff Product Manager, Payments",
-      "company": "Stripe",
-      "location": "SF, SEA, NYC, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7819059",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-22",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
     {
       "id": "1e12ad8e1729f888",
