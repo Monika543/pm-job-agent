@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-10-22T08:10:48.174906+00:00",
+  "generated_at": "2026-10-22T14:15:22.133092+00:00",
   "count": 66,
   "jobs": [
+    {
+      "id": "0f0165797b0cf5dd",
+      "title": "PM role(s) spotted: Product Manager",
+      "company": "Jumbotail",
+      "location": "See careers page",
+      "url": "https://www.jumbotail.com/careers",
+      "source": "Page watcher",
+      "salary": null,
+      "posted": null,
+      "tags": [
+        "careers page",
+        "verify on site"
+      ],
+      "first_seen": "2026-10-22T14:15:22.133092+00:00"
+    },
     {
       "id": "5134e28b3a181424",
       "title": "Product Manager II",
@@ -22,7 +37,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8301646",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-10-21T19:02:59.522501+00:00"
     },
@@ -34,7 +49,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8306158",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-10-21T19:02:59.522501+00:00"
     },
@@ -318,7 +333,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8140438",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-10-02T17:10:28.285213+00:00"
     },
@@ -450,7 +465,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7913702",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-09-24T18:45:51.846690+00:00"
     },
@@ -499,18 +514,6 @@
       "first_seen": "2026-09-23T02:42:35.818231+00:00"
     },
     {
-      "id": "4094278fdf4dd11a",
-      "title": "Product Manager II - AI",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-09-28",
-      "tags": [],
-      "first_seen": "2026-09-22T13:48:34.755756+00:00"
-    },
-    {
       "id": "3674694efd60a90a",
       "title": "Senior Product Manager, Enterprise",
       "company": "Stripe",
@@ -518,7 +521,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7812856",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-09-21T21:30:30.580687+00:00"
     },
@@ -530,7 +533,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8209996",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-09-21T15:31:51.768995+00:00"
     },
@@ -542,7 +545,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7913698",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-09-18T17:58:58.417762+00:00"
     },
@@ -606,7 +609,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -618,7 +621,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=8165137",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-08-28T23:47:33.139779+00:00"
     },
@@ -642,7 +645,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7983725",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-08-21T18:25:32.900556+00:00"
     },
@@ -654,7 +657,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -666,7 +669,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -702,7 +705,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7517535",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-07-09T22:15:19.578629+00:00"
     },
@@ -762,7 +765,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7392697",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-06-17T17:47:13.036200+00:00"
     },
@@ -798,7 +801,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7819059",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     },
@@ -810,7 +813,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-21",
+      "posted": "2026-10-22",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
