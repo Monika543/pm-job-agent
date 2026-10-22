@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-22T02:44:43.826430+00:00",
-  "count": 65,
+  "generated_at": "2026-10-22T08:10:48.174906+00:00",
+  "count": 66,
   "jobs": [
+    {
+      "id": "5134e28b3a181424",
+      "title": "Product Manager II",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/5dca8c71-9993-438f-ad51-da3c7f4be692",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-08-18",
+      "tags": [],
+      "first_seen": "2026-10-22T08:10:48.174906+00:00"
+    },
     {
       "id": "1f9f405ce0fb803d",
       "title": "Product Manager, Radar",
