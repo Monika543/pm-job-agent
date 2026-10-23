@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-23T18:48:40.733686+00:00",
-  "count": 67,
+  "generated_at": "2026-10-23T23:41:37.972657+00:00",
+  "count": 68,
   "jobs": [
+    {
+      "id": "21b8f05c1c18a136",
+      "title": "Senior Product Manager, Switchboard",
+      "company": "GitLab",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894806002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-23",
+      "tags": [],
+      "first_seen": "2026-10-23T23:41:37.972657+00:00"
+    },
     {
       "id": "8b2eb0ea64f5e2d6",
       "title": "Staff Product Manager, Agentic Planning",
