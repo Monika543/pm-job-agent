@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-26T08:20:23.034553+00:00",
-  "count": 67,
+  "generated_at": "2026-10-26T15:40:48.014908+00:00",
+  "count": 68,
   "jobs": [
+    {
+      "id": "1720fea23ba62d4b",
+      "title": "Product Manager II, Wallets and DeFi",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8311341?gh_jid=8311341",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-26",
+      "tags": [],
+      "first_seen": "2026-10-26T15:40:48.014908+00:00"
+    },
     {
       "id": "21b8f05c1c18a136",
       "title": "Senior Product Manager, Switchboard",
@@ -633,7 +645,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-25",
+      "posted": "2026-10-26",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -681,7 +693,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-25",
+      "posted": "2026-10-26",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -693,7 +705,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-25",
+      "posted": "2026-10-26",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -825,7 +837,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-25",
+      "posted": "2026-10-26",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
