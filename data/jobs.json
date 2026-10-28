@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-28T11:54:47.900429+00:00",
-  "count": 67,
+  "generated_at": "2026-10-28T17:44:00.233577+00:00",
+  "count": 68,
   "jobs": [
+    {
+      "id": "4747f34ce4ed56f5",
+      "title": "Senior Enterprise Product Manager, FP&A",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8318557?gh_jid=8318557",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-28",
+      "tags": [],
+      "first_seen": "2026-10-28T17:44:00.233577+00:00"
+    },
     {
       "id": "a3ba4bcd91677bdb",
       "title": "Senior Product Manager, Secret Detection and Vulnerability Research",
@@ -10,7 +22,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8697043002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-26",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-10-26T22:08:22.339610+00:00"
     },
@@ -34,7 +46,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894806002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-23",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-10-23T23:41:37.972657+00:00"
     },
@@ -46,7 +58,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8909618002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-23",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-10-23T13:58:51.327433+00:00"
     },
@@ -213,7 +225,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871820002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-15",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-10-13T20:27:02.217167+00:00"
     },
@@ -381,7 +393,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8855883002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-15",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-10-02T21:39:35.784675+00:00"
     },
@@ -417,7 +429,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8658878002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-15",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-10-01T20:01:08.754188+00:00"
     },
@@ -441,7 +453,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8845483002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-15",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-09-30T21:43:29.193745+00:00"
     },
@@ -517,7 +529,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597805002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-15",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-09-23T18:45:15.066314+00:00"
     },
@@ -605,7 +617,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8806017002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-15",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-09-14T21:14:29.479906+00:00"
     },
@@ -633,7 +645,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -681,7 +693,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -693,7 +705,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -741,7 +753,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8612937002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-15",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-07-08T13:46:38.583205+00:00"
     },
@@ -825,7 +837,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-27",
+      "posted": "2026-10-28",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
