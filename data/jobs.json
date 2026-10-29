@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-29T03:46:08.874557+00:00",
-  "count": 68,
+  "generated_at": "2026-10-29T12:02:52.065845+00:00",
+  "count": 69,
   "jobs": [
+    {
+      "id": "ac204a69485e4709",
+      "title": "Product Manager II - Ads",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4729533005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-10-29",
+      "tags": [],
+      "first_seen": "2026-10-29T12:02:52.065845+00:00"
+    },
     {
       "id": "4747f34ce4ed56f5",
       "title": "Senior Enterprise Product Manager, FP&A",
