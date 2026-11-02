@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-02T10:23:20.978703+00:00",
-  "count": 68,
+  "generated_at": "2026-11-02T21:12:47.810952+00:00",
+  "count": 69,
   "jobs": [
+    {
+      "id": "01cd65e2b4a4becf",
+      "title": "Senior Product Manager - Data Integrations",
+      "company": "GitLab",
+      "location": "Bangalore, India",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8905040002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-02",
+      "tags": [],
+      "first_seen": "2026-11-02T21:12:47.810952+00:00"
+    },
     {
       "id": "ac204a69485e4709",
       "title": "Product Manager II - Ads",
@@ -645,7 +657,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-01",
+      "posted": "2026-11-02",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -693,7 +705,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8120503",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-01",
+      "posted": "2026-11-02",
       "tags": [],
       "first_seen": "2026-08-11T21:37:44.166599+00:00"
     },
@@ -705,7 +717,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-01",
+      "posted": "2026-11-02",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -837,7 +849,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-01",
+      "posted": "2026-11-02",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
