@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-03T13:22:43.589541+00:00",
-  "count": 68,
+  "generated_at": "2026-11-03T20:43:01.385985+00:00",
+  "count": 70,
   "jobs": [
+    {
+      "id": "473f04a92e6a5959",
+      "title": "Senior Product Manager, Risk",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8348406?gh_jid=8348406",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-03",
+      "tags": [],
+      "first_seen": "2026-11-03T20:43:01.385985+00:00"
+    },
+    {
+      "id": "6da64231f1319526",
+      "title": "Staff Product Manager, Tenant Scale",
+      "company": "GitLab",
+      "location": "Remote, Canada; Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8919537002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-03",
+      "tags": [],
+      "first_seen": "2026-11-03T20:43:01.385985+00:00"
+    },
     {
       "id": "01cd65e2b4a4becf",
       "title": "Senior Product Manager - Data Integrations",
