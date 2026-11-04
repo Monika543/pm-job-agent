@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-04T00:58:51.249956+00:00",
-  "count": 69,
+  "generated_at": "2026-11-04T10:14:48.630214+00:00",
+  "count": 70,
   "jobs": [
+    {
+      "id": "0867b28ebcf32110",
+      "title": "Staff Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4727236005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-04",
+      "tags": [],
+      "first_seen": "2026-11-04T10:14:48.630214+00:00"
+    },
     {
       "id": "473f04a92e6a5959",
       "title": "Senior Product Manager, Risk",
@@ -813,7 +825,7 @@
       "url": "https://stripe.com/jobs/search?gh_jid=7392697",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-29",
+      "posted": "2026-11-03",
       "tags": [],
       "first_seen": "2026-06-17T17:47:13.036200+00:00"
     },
