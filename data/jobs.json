@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-04T10:14:48.630214+00:00",
-  "count": 70,
+  "generated_at": "2026-11-04T19:10:45.719304+00:00",
+  "count": 69,
   "jobs": [
+    {
+      "id": "57355b528a55358c",
+      "title": "Staff Product Manager, Enterprise",
+      "company": "Stripe",
+      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-04",
+      "tags": [],
+      "first_seen": "2026-11-04T19:10:45.719304+00:00"
+    },
     {
       "id": "0867b28ebcf32110",
       "title": "Staff Product Manager",
@@ -586,18 +598,6 @@
       "first_seen": "2026-09-23T02:42:35.818231+00:00"
     },
     {
-      "id": "3674694efd60a90a",
-      "title": "Senior Product Manager, Enterprise",
-      "company": "Stripe",
-      "location": "San Francisco, Seattle, New York, Chicago, Atlanta, Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7812856",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-29",
-      "tags": [],
-      "first_seen": "2026-09-21T21:30:30.580687+00:00"
-    },
-    {
       "id": "608c7b12d450e6f8",
       "title": "Staff Product Manager, Payments Intelligence",
       "company": "Stripe",
@@ -681,7 +681,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-03",
+      "posted": "2026-11-04",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -729,7 +729,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-03",
+      "posted": "2026-11-04",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -744,18 +744,6 @@
       "posted": "2026-06-29",
       "tags": [],
       "first_seen": "2026-07-27T06:20:37.301841+00:00"
-    },
-    {
-      "id": "eb359234ffd545a1",
-      "title": "Group Product Manager, Compliance Agent Experience",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8060662?gh_jid=8060662",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-30",
-      "tags": [],
-      "first_seen": "2026-07-14T05:22:39.465802+00:00"
     },
     {
       "id": "6a4a08d14c07374c",
@@ -861,7 +849,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-03",
+      "posted": "2026-11-04",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
