@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T10:08:07.669716+00:00",
-  "count": 68,
+  "generated_at": "2026-11-05T19:17:21.032585+00:00",
+  "count": 67,
   "jobs": [
     {
       "id": "8de371fff24f36df",
@@ -118,7 +118,7 @@
       "url": "https://www.coinbase.com/careers/positions/8311341?gh_jid=8311341",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-30",
+      "posted": "2026-11-05",
       "tags": [],
       "first_seen": "2026-10-26T15:40:48.014908+00:00"
     },
@@ -434,18 +434,6 @@
       "first_seen": "2026-10-06T12:31:54.345489+00:00"
     },
     {
-      "id": "8842ede546c5a385",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4699107005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-06",
-      "tags": [],
-      "first_seen": "2026-10-06T12:31:54.345489+00:00"
-    },
-    {
       "id": "3ce8cff64af618a5",
       "title": "Senior Product Manager, CRM & GTM Systems",
       "company": "GitLab",
@@ -669,7 +657,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-04",
+      "posted": "2026-11-05",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -717,7 +705,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-04",
+      "posted": "2026-11-05",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -837,7 +825,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-04",
+      "posted": "2026-11-05",
       "tags": [],
       "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
