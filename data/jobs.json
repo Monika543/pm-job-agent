@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-04T19:10:45.719304+00:00",
-  "count": 69,
+  "generated_at": "2026-11-05T01:12:38.556074+00:00",
+  "count": 68,
   "jobs": [
+    {
+      "id": "8de371fff24f36df",
+      "title": "Senior Product Manager, Payments",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8351170?gh_jid=8351170",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-04",
+      "tags": [],
+      "first_seen": "2026-11-05T01:12:38.556074+00:00"
+    },
     {
       "id": "57355b528a55358c",
       "title": "Staff Product Manager, Enterprise",
@@ -432,30 +444,6 @@
       "posted": "2026-10-06",
       "tags": [],
       "first_seen": "2026-10-06T12:31:54.345489+00:00"
-    },
-    {
-      "id": "323ef881ecdaadf6",
-      "title": "Product Manager II",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/b56573f0-c701-422a-abfa-ac8bbdbfa645",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-08-12",
-      "tags": [],
-      "first_seen": "2026-10-05T21:45:32.454778+00:00"
-    },
-    {
-      "id": "2d79a1fe025d2594",
-      "title": "Senior Director of Product, Advertiser Platform & Advertiser Experiences",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7746311",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-06",
-      "tags": [],
-      "first_seen": "2026-10-05T21:45:32.454778+00:00"
     },
     {
       "id": "3ce8cff64af618a5",
