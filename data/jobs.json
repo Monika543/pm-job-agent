@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-11-05T19:17:21.032585+00:00",
-  "count": 67,
+  "generated_at": "2026-11-06T01:18:11.797042+00:00",
+  "count": 69,
   "jobs": [
+    {
+      "id": "ff173c49c58afae1",
+      "title": "Group Product Manager, AI Foundations",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8351165?gh_jid=8351165",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-05",
+      "tags": [],
+      "first_seen": "2026-11-06T01:18:11.797042+00:00"
+    },
+    {
+      "id": "d5521e9e959a40b7",
+      "title": "Payments Infrastructure Product Manager",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8356838?gh_jid=8356838",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-05",
+      "tags": [],
+      "first_seen": "2026-11-06T01:18:11.797042+00:00"
+    },
+    {
+      "id": "d8e2d68bd810b153",
+      "title": "Product Manager II",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-05",
+      "tags": [],
+      "first_seen": "2026-11-06T01:18:11.797042+00:00"
+    },
+    {
+      "id": "4138373be30d8ab4",
+      "title": "Director of Product Management, Platforms",
+      "company": "GitLab",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8893054002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-05",
+      "tags": [],
+      "first_seen": "2026-11-06T01:18:11.797042+00:00"
+    },
     {
       "id": "8de371fff24f36df",
       "title": "Senior Product Manager, Payments",
@@ -398,30 +446,6 @@
       "first_seen": "2026-10-07T00:16:53.454349+00:00"
     },
     {
-      "id": "fb7f4abff6c0348f",
-      "title": "Product Manager, Radar",
-      "company": "Stripe",
-      "location": "San Francisco, Seattle, New York, US-Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7983854",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-20",
-      "tags": [],
-      "first_seen": "2026-10-06T19:55:40.690852+00:00"
-    },
-    {
-      "id": "03c9bbbdf9467b1d",
-      "title": "Staff Product Manager, Radar - Fraud and Abuse Prevention",
-      "company": "Stripe",
-      "location": "San Francisco, Seattle, New York, US-Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8258815",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-07",
-      "tags": [],
-      "first_seen": "2026-10-06T19:55:40.690852+00:00"
-    },
-    {
       "id": "e5fa0f9112307ed7",
       "title": "Senior Product Manager",
       "company": "Razorpay",
@@ -777,7 +801,7 @@
       "url": "https://www.coinbase.com/careers/positions/8017607?gh_jid=8017607",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-30",
+      "posted": "2026-11-05",
       "tags": [],
       "first_seen": "2026-06-19T19:29:37.880567+00:00"
     },
