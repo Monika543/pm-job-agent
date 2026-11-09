@@ -1,18 +1,46 @@
 {
-  "generated_at": "2026-11-09T10:43:43.402490+00:00",
-  "count": 71,
+  "generated_at": "2026-11-09T21:48:04.410277+00:00",
+  "count": 73,
   "jobs": [
     {
-      "id": "47dfa227bb609e45",
+      "id": "5216e16848c04f37",
       "title": "Senior Product Manager",
+      "company": "Pencil",
+      "location": "EMEA",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-11-08",
+      "tags": [
+        "product manager",
+        "exec",
+        "design"
+      ],
+      "first_seen": "2026-11-09T21:48:04.410277+00:00"
+    },
+    {
+      "id": "2483470ee98ac0f2",
+      "title": "Senior Product Manager, Payments & TRUST Network",
       "company": "Coinbase",
       "location": "Remote - USA",
       "url": "https://www.coinbase.com/careers/positions/8360386?gh_jid=8360386",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-06",
+      "posted": "2026-11-09",
       "tags": [],
-      "first_seen": "2026-11-07T00:31:51.824787+00:00"
+      "first_seen": "2026-11-09T21:48:04.410277+00:00"
+    },
+    {
+      "id": "9611486b2e5946c7",
+      "title": "Product Manager, Developer Ecosystem",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8331370",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-09",
+      "tags": [],
+      "first_seen": "2026-11-09T21:48:04.410277+00:00"
     },
     {
       "id": "9348c688ab585789",
@@ -39,6 +67,18 @@
         "careers page",
         "verify on site"
       ],
+      "first_seen": "2026-11-07T00:31:51.824787+00:00"
+    },
+    {
+      "id": "47dfa227bb609e45",
+      "title": "Senior Product Manager",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8360386?gh_jid=8360386",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-06",
+      "tags": [],
       "first_seen": "2026-11-07T00:31:51.824787+00:00"
     },
     {
@@ -181,7 +221,7 @@
       "url": "https://www.coinbase.com/careers/positions/8318557?gh_jid=8318557",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-30",
+      "posted": "2026-11-09",
       "tags": [],
       "first_seen": "2026-10-28T17:44:00.233577+00:00"
     },
@@ -500,11 +540,11 @@
       "id": "00181103dc8020cb",
       "title": "Staff Product Manager, Mobile",
       "company": "Stripe",
-      "location": "New York City, Toronto, Chicago, or Remote",
+      "location": "New York City, Toronto, Chicago, EMEA, or Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=8140438",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-29",
+      "posted": "2026-11-09",
       "tags": [],
       "first_seen": "2026-10-02T17:10:28.285213+00:00"
     },
@@ -711,18 +751,6 @@
       "posted": "2026-11-06",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
-    },
-    {
-      "id": "7a560bc9bc4aba6d",
-      "title": "Product Manager, Identity & Access Management",
-      "company": "Stripe",
-      "location": "US-Remote, US-Chicago",
-      "url": "https://stripe.com/jobs/search?gh_jid=8165137",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-29",
-      "tags": [],
-      "first_seen": "2026-08-28T23:47:33.139779+00:00"
     },
     {
       "id": "00fa2f17079441e4",
