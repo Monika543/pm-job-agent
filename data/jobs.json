@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-11-09T21:48:04.410277+00:00",
-  "count": 73,
+  "generated_at": "2026-11-10T05:29:23.023974+00:00",
+  "count": 77,
   "jobs": [
+    {
+      "id": "e55c0e303e327494",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-10",
+      "tags": [],
+      "first_seen": "2026-11-10T05:29:23.023974+00:00"
+    },
+    {
+      "id": "9300ccde4467dd87",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-09",
+      "tags": [],
+      "first_seen": "2026-11-10T05:29:23.023974+00:00"
+    },
+    {
+      "id": "4a5af9c0e0abe692",
+      "title": "Senior Product Manager",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749337005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-09",
+      "tags": [],
+      "first_seen": "2026-11-10T05:29:23.023974+00:00"
+    },
+    {
+      "id": "8cd0949fced213e1",
+      "title": "Product Manager II, Payment Experiences",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-09",
+      "tags": [],
+      "first_seen": "2026-11-10T05:29:23.023974+00:00"
+    },
     {
       "id": "5216e16848c04f37",
       "title": "Senior Product Manager",
@@ -106,18 +154,6 @@
       "first_seen": "2026-11-06T01:18:11.797042+00:00"
     },
     {
-      "id": "d8e2d68bd810b153",
-      "title": "Product Manager II",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-05",
-      "tags": [],
-      "first_seen": "2026-11-06T01:18:11.797042+00:00"
-    },
-    {
       "id": "4138373be30d8ab4",
       "title": "Director of Product Management, Platforms",
       "company": "GitLab",
@@ -126,6 +162,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-06",
+      "tags": [],
+      "first_seen": "2026-11-06T01:18:11.797042+00:00"
+    },
+    {
+      "id": "d8e2d68bd810b153",
+      "title": "Product Manager II",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-05",
       "tags": [],
       "first_seen": "2026-11-06T01:18:11.797042+00:00"
     },
