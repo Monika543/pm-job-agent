@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-10T14:02:51.306964+00:00",
-  "count": 77,
+  "generated_at": "2026-11-10T21:07:32.214371+00:00",
+  "count": 78,
   "jobs": [
+    {
+      "id": "8daf60269373e8fc",
+      "title": "Senior Product Manager, Simple Trading",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8374607?gh_jid=8374607",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-10",
+      "tags": [],
+      "first_seen": "2026-11-10T21:07:32.214371+00:00"
+    },
     {
       "id": "ea90416a8955bd26",
       "title": "Senior Product Manager",
