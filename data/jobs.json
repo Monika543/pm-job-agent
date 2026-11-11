@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-11T13:19:58.657058+00:00",
-  "count": 78,
+  "generated_at": "2026-11-11T21:40:32.649508+00:00",
+  "count": 79,
   "jobs": [
+    {
+      "id": "ed686e7fb9147828",
+      "title": "Staff Product Manager, Foundation Pillar",
+      "company": "Stripe",
+      "location": "SF, SEA, NY, Remote-US",
+      "url": "https://stripe.com/jobs/search?gh_jid=8381041",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-11",
+      "tags": [],
+      "first_seen": "2026-11-11T21:40:32.649508+00:00"
+    },
     {
       "id": "8daf60269373e8fc",
       "title": "Senior Product Manager, Simple Trading",
