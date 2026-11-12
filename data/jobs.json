@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T21:40:32.649508+00:00",
-  "count": 79,
+  "generated_at": "2026-11-12T05:11:32.933365+00:00",
+  "count": 78,
   "jobs": [
     {
       "id": "ed686e7fb9147828",
@@ -535,18 +535,6 @@
       "posted": "2026-10-15",
       "tags": [],
       "first_seen": "2026-10-13T20:27:02.217167+00:00"
-    },
-    {
-      "id": "777cf16e75a53225",
-      "title": "Product Manager, Radar - Fraud and Abuse Prevention",
-      "company": "Stripe",
-      "location": "San Francisco, Seattle, New York, US-Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=8258815",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-20",
-      "tags": [],
-      "first_seen": "2026-10-12T22:20:08.421157+00:00"
     },
     {
       "id": "eee3cdb6f5f028cc",
