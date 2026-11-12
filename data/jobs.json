@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T14:23:55.002080+00:00",
-  "count": 78,
+  "generated_at": "2026-11-12T21:39:53.768966+00:00",
+  "count": 77,
   "jobs": [
     {
       "id": "ed686e7fb9147828",
@@ -39,18 +39,6 @@
       "first_seen": "2026-11-10T14:02:51.306964+00:00"
     },
     {
-      "id": "9300ccde4467dd87",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-09",
-      "tags": [],
-      "first_seen": "2026-11-10T05:29:23.023974+00:00"
-    },
-    {
       "id": "e55c0e303e327494",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -59,6 +47,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-10",
+      "tags": [],
+      "first_seen": "2026-11-10T05:29:23.023974+00:00"
+    },
+    {
+      "id": "9300ccde4467dd87",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-09",
       "tags": [],
       "first_seen": "2026-11-10T05:29:23.023974+00:00"
     },
@@ -521,18 +521,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-06",
-      "tags": [],
-      "first_seen": "2026-10-13T20:27:02.217167+00:00"
-    },
-    {
-      "id": "0e23151969bebd16",
-      "title": "Principal Product Manager, Orbit",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871798002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-15",
       "tags": [],
       "first_seen": "2026-10-13T20:27:02.217167+00:00"
     },
