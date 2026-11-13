@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-13T13:43:11.751938+00:00",
-  "count": 80,
+  "generated_at": "2026-11-13T21:06:46.876713+00:00",
+  "count": 79,
   "jobs": [
+    {
+      "id": "72a6e1e2887c8115",
+      "title": "Product Manager I - International",
+      "company": "Coinbase",
+      "location": "Remote - Singapore",
+      "url": "https://www.coinbase.com/careers/positions/8382331?gh_jid=8382331",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-13",
+      "tags": [],
+      "first_seen": "2026-11-13T21:06:46.876713+00:00"
+    },
     {
       "id": "679a95f804ffa797",
       "title": "Product Manager I",
@@ -87,18 +99,6 @@
       "first_seen": "2026-11-10T14:02:51.306964+00:00"
     },
     {
-      "id": "9300ccde4467dd87",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-09",
-      "tags": [],
-      "first_seen": "2026-11-10T05:29:23.023974+00:00"
-    },
-    {
       "id": "e55c0e303e327494",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -107,6 +107,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-10",
+      "tags": [],
+      "first_seen": "2026-11-10T05:29:23.023974+00:00"
+    },
+    {
+      "id": "9300ccde4467dd87",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-09",
       "tags": [],
       "first_seen": "2026-11-10T05:29:23.023974+00:00"
     },
@@ -365,7 +377,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8697043002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-06",
+      "posted": "2026-11-13",
       "tags": [],
       "first_seen": "2026-10-26T22:08:22.339610+00:00"
     },
@@ -517,18 +529,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-10-30",
-      "tags": [],
-      "first_seen": "2026-10-14T14:13:58.632415+00:00"
-    },
-    {
-      "id": "b21221790097caed",
-      "title": "Senior Product Manager : F&E",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/102d5a7e-0292-4ddc-8ebc-ba191119349e",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-10-09",
       "tags": [],
       "first_seen": "2026-10-14T14:13:58.632415+00:00"
     },
@@ -979,18 +979,6 @@
       "posted": "2026-06-11",
       "tags": [],
       "first_seen": "2026-06-11T12:38:27.236377+00:00"
-    },
-    {
-      "id": "1e12ad8e1729f888",
-      "title": "Staff Technical Product Manager, Ads ML Platform",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7954001",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-06",
-      "tags": [],
-      "first_seen": "2026-06-11T09:00:19.450853+00:00"
     }
   ]
 }
