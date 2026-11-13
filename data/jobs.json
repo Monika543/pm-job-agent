@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-12T21:39:53.768966+00:00",
-  "count": 77,
+  "generated_at": "2026-11-13T04:27:37.020012+00:00",
+  "count": 79,
   "jobs": [
+    {
+      "id": "9b0c793e05c6a3b9",
+      "title": "Product Manager, AI Foundations",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8367400",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-12",
+      "tags": [],
+      "first_seen": "2026-11-13T04:27:37.020012+00:00"
+    },
+    {
+      "id": "5d09414b6ec8920f",
+      "title": "Product Manager, Ecosystem Relevance",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8148055",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-12",
+      "tags": [],
+      "first_seen": "2026-11-13T04:27:37.020012+00:00"
+    },
     {
       "id": "ed686e7fb9147828",
       "title": "Staff Product Manager, Foundation Pillar",
@@ -39,18 +63,6 @@
       "first_seen": "2026-11-10T14:02:51.306964+00:00"
     },
     {
-      "id": "e55c0e303e327494",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-10",
-      "tags": [],
-      "first_seen": "2026-11-10T05:29:23.023974+00:00"
-    },
-    {
       "id": "9300ccde4467dd87",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -59,6 +71,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-09",
+      "tags": [],
+      "first_seen": "2026-11-10T05:29:23.023974+00:00"
+    },
+    {
+      "id": "e55c0e303e327494",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-10",
       "tags": [],
       "first_seen": "2026-11-10T05:29:23.023974+00:00"
     },
