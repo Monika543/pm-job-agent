@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-13T04:27:37.020012+00:00",
-  "count": 79,
+  "generated_at": "2026-11-13T13:43:11.751938+00:00",
+  "count": 80,
   "jobs": [
+    {
+      "id": "679a95f804ffa797",
+      "title": "Product Manager I",
+      "company": "Coinbase",
+      "location": "Remote - Singapore",
+      "url": "https://www.coinbase.com/careers/positions/8382331?gh_jid=8382331",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-13",
+      "tags": [],
+      "first_seen": "2026-11-13T13:43:11.751938+00:00"
+    },
+    {
+      "id": "bde7dbc911769528",
+      "title": "Product Manager I",
+      "company": "Coinbase",
+      "location": "Remote - India",
+      "url": "https://www.coinbase.com/careers/positions/8382332?gh_jid=8382332",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-13",
+      "tags": [],
+      "first_seen": "2026-11-13T13:43:11.751938+00:00"
+    },
     {
       "id": "9b0c793e05c6a3b9",
       "title": "Product Manager, AI Foundations",
@@ -522,18 +546,6 @@
         "exec",
         "technical"
       ],
-      "first_seen": "2026-10-14T08:15:59.274446+00:00"
-    },
-    {
-      "id": "4ffbb8416992bd80",
-      "title": "Product Manager II - Growth (Anchit)",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/b56573f0-c701-422a-abfa-ac8bbdbfa645",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-08-12",
-      "tags": [],
       "first_seen": "2026-10-14T08:15:59.274446+00:00"
     },
     {
