@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T21:06:46.876713+00:00",
+  "generated_at": "2026-11-14T04:23:28.501283+00:00",
   "count": 79,
   "jobs": [
     {
@@ -99,18 +99,6 @@
       "first_seen": "2026-11-10T14:02:51.306964+00:00"
     },
     {
-      "id": "e55c0e303e327494",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-10",
-      "tags": [],
-      "first_seen": "2026-11-10T05:29:23.023974+00:00"
-    },
-    {
       "id": "9300ccde4467dd87",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -119,6 +107,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-09",
+      "tags": [],
+      "first_seen": "2026-11-10T05:29:23.023974+00:00"
+    },
+    {
+      "id": "e55c0e303e327494",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-10",
       "tags": [],
       "first_seen": "2026-11-10T05:29:23.023974+00:00"
     },
@@ -940,7 +940,7 @@
       "url": "https://www.coinbase.com/careers/positions/8017607?gh_jid=8017607",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-05",
+      "posted": "2026-11-13",
       "tags": [],
       "first_seen": "2026-06-19T19:29:37.880567+00:00"
     },
