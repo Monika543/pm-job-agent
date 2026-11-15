@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T10:14:25.116660+00:00",
-  "count": 79,
+  "generated_at": "2026-11-15T18:18:51.385323+00:00",
+  "count": 78,
   "jobs": [
     {
       "id": "72a6e1e2887c8115",
@@ -194,7 +194,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8359289",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-06",
+      "posted": "2026-11-15",
       "tags": [],
       "first_seen": "2026-11-07T00:31:51.824787+00:00"
     },
@@ -509,18 +509,6 @@
       "first_seen": "2026-10-17T17:40:46.251672+00:00"
     },
     {
-      "id": "95587c7c489a9885",
-      "title": "Product Manager I",
-      "company": "Meesho",
-      "location": "Bangalore, Karnataka",
-      "url": "https://jobs.lever.co/meesho/494d8ba6-22b6-467f-837b-8af9c1aee377",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-10-16",
-      "tags": [],
-      "first_seen": "2026-10-16T13:39:50.493391+00:00"
-    },
-    {
       "id": "50c238ba2b3692b3",
       "title": "Product Manager II, Advanced Trade",
       "company": "Coinbase",
@@ -832,7 +820,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-06",
+      "posted": "2026-11-15",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -868,7 +856,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-06",
+      "posted": "2026-11-15",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
