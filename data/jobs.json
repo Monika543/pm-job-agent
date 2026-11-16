@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-16T10:27:26.036950+00:00",
-  "count": 78,
+  "generated_at": "2026-11-16T21:28:27.476639+00:00",
+  "count": 79,
   "jobs": [
+    {
+      "id": "2837b0a391f7401d",
+      "title": "Product Manager, Finance Operations",
+      "company": "Stripe",
+      "location": "US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8393939",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-16",
+      "tags": [],
+      "first_seen": "2026-11-16T21:28:27.476639+00:00"
+    },
     {
       "id": "72a6e1e2887c8115",
       "title": "Product Manager I - International",
@@ -194,7 +206,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8359289",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-15",
+      "posted": "2026-11-16",
       "tags": [],
       "first_seen": "2026-11-07T00:31:51.824787+00:00"
     },
@@ -820,7 +832,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-15",
+      "posted": "2026-11-16",
       "tags": [],
       "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
@@ -856,7 +868,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-15",
+      "posted": "2026-11-16",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -892,7 +904,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8612937002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-06",
+      "posted": "2026-11-16",
       "tags": [],
       "first_seen": "2026-07-08T13:46:38.583205+00:00"
     },
