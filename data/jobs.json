@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-17T05:56:21.502676+00:00",
-  "count": 79,
+  "generated_at": "2026-11-17T15:26:30.648143+00:00",
+  "count": 81,
   "jobs": [
+    {
+      "id": "24add47c896c4307",
+      "title": "Product Manager I",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/1c0052a9-6664-4602-9aad-0e250d9c0980",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-11-03",
+      "tags": [],
+      "first_seen": "2026-11-17T15:26:30.648143+00:00"
+    },
+    {
+      "id": "925aa65877c3e4d7",
+      "title": "Senior Product Manager",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/19954b1f-3bbc-44b6-b836-65c0f854953b",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-11-17",
+      "tags": [],
+      "first_seen": "2026-11-17T15:26:30.648143+00:00"
+    },
     {
       "id": "2837b0a391f7401d",
       "title": "Product Manager, Finance Operations",
