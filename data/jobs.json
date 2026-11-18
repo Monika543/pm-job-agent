@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T15:26:30.648143+00:00",
-  "count": 81,
+  "generated_at": "2026-11-18T00:18:52.001332+00:00",
+  "count": 80,
   "jobs": [
     {
       "id": "24add47c896c4307",
@@ -580,7 +580,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871820002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-06",
+      "posted": "2026-11-17",
       "tags": [],
       "first_seen": "2026-10-13T20:27:02.217167+00:00"
     },
@@ -847,18 +847,6 @@
         "infosec"
       ],
       "first_seen": "2026-09-13T17:48:38.019763+00:00"
-    },
-    {
-      "id": "7566c7388b8f7b9d",
-      "title": "Staff Product Manager, Ads Formats",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8167412",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-16",
-      "tags": [],
-      "first_seen": "2026-08-31T18:32:39.836557+00:00"
     },
     {
       "id": "00fa2f17079441e4",
