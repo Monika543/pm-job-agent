@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-18T10:56:09.538013+00:00",
-  "count": 80,
+  "generated_at": "2026-11-18T19:48:17.859829+00:00",
+  "count": 78,
   "jobs": [
+    {
+      "id": "d06b875ea71237e9",
+      "title": "Senior Product Manager, Workspace and Multi-User",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8148171?gh_jid=8148171",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-18",
+      "tags": [],
+      "first_seen": "2026-11-18T19:48:17.859829+00:00"
+    },
     {
       "id": "24add47c896c4307",
       "title": "Product Manager I",
@@ -135,18 +147,6 @@
       "first_seen": "2026-11-10T14:02:51.306964+00:00"
     },
     {
-      "id": "9300ccde4467dd87",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-09",
-      "tags": [],
-      "first_seen": "2026-11-10T05:29:23.023974+00:00"
-    },
-    {
       "id": "e55c0e303e327494",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -155,6 +155,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-10",
+      "tags": [],
+      "first_seen": "2026-11-10T05:29:23.023974+00:00"
+    },
+    {
+      "id": "9300ccde4467dd87",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4749335005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-09",
       "tags": [],
       "first_seen": "2026-11-10T05:29:23.023974+00:00"
     },
@@ -230,7 +242,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8359289",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-16",
+      "posted": "2026-11-18",
       "tags": [],
       "first_seen": "2026-11-07T00:31:51.824787+00:00"
     },
@@ -573,18 +585,6 @@
       "first_seen": "2026-10-14T08:15:59.274446+00:00"
     },
     {
-      "id": "244612546d237c92",
-      "title": "Staff Product Manager, Agentic Test Intelligence",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8871820002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-17",
-      "tags": [],
-      "first_seen": "2026-10-13T20:27:02.217167+00:00"
-    },
-    {
       "id": "eee3cdb6f5f028cc",
       "title": "Lead Product Manager(SaaS + AI)",
       "company": "Zenoti",
@@ -595,18 +595,6 @@
       "posted": "2026-10-09",
       "tags": [],
       "first_seen": "2026-10-09T17:48:13.507448+00:00"
-    },
-    {
-      "id": "fb4913a0056e16bb",
-      "title": "Staff Product Manager, Community Builders",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/7996994",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-10-23",
-      "tags": [],
-      "first_seen": "2026-10-07T18:13:31.093564+00:00"
     },
     {
       "id": "78d5f4fccd96c6b8",
@@ -849,18 +837,6 @@
       "first_seen": "2026-09-13T17:48:38.019763+00:00"
     },
     {
-      "id": "00fa2f17079441e4",
-      "title": "Product Manager II, Workspace and Multi-User",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8148171?gh_jid=8148171",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-18",
-      "tags": [],
-      "first_seen": "2026-08-22T00:48:23.404869+00:00"
-    },
-    {
       "id": "dad8f6c58e007b6f",
       "title": "Staff Product Manager, Billing",
       "company": "Stripe",
@@ -880,7 +856,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-16",
+      "posted": "2026-11-18",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
