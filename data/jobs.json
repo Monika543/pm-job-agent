@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-19T02:09:26.987327+00:00",
-  "count": 76,
+  "generated_at": "2026-11-19T10:58:23.981147+00:00",
+  "count": 77,
   "jobs": [
+    {
+      "id": "357d942313e8ccbe",
+      "title": "Product Manager II - DAU Labs",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/ee1aa9f3-e5a1-4488-93fb-963127eebe0c",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-11-16",
+      "tags": [],
+      "first_seen": "2026-11-19T10:58:23.981147+00:00"
+    },
     {
       "id": "d06b875ea71237e9",
       "title": "Senior Product Manager, Workspace and Multi-User",
