@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T19:48:31.513706+00:00",
-  "count": 76,
+  "generated_at": "2026-11-20T01:57:57.495395+00:00",
+  "count": 73,
   "jobs": [
     {
       "id": "357d942313e8ccbe",
@@ -669,18 +669,6 @@
       "first_seen": "2026-10-01T20:01:08.754188+00:00"
     },
     {
-      "id": "cede63014fe51217",
-      "title": "Senior Product Manager, Billing Engine & Platforms Monetization",
-      "company": "GitLab",
-      "location": "Remote, United Kingdom; Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8845483002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-06",
-      "tags": [],
-      "first_seen": "2026-09-30T21:43:29.193745+00:00"
-    },
-    {
       "id": "caac7efe1e5aaad7",
       "title": "Senior Product Manager - Data & Analytics Platform",
       "company": "Meesho",
@@ -873,18 +861,6 @@
       "first_seen": "2026-07-08T13:46:38.583205+00:00"
     },
     {
-      "id": "b75d5f4aa1cbfe6c",
-      "title": "Agentic Product Manager",
-      "company": "Netomi",
-      "location": "Gurugram",
-      "url": "https://jobs.lever.co/netomi/a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
-      "source": "Lever",
-      "salary": null,
-      "posted": "2026-07-02",
-      "tags": [],
-      "first_seen": "2026-07-02T06:33:56.905866+00:00"
-    },
-    {
       "id": "69315883598b1f9d",
       "title": "Group Product Manager, Core Infrastructure & Reliability",
       "company": "Coinbase",
@@ -895,18 +871,6 @@
       "posted": "2026-10-30",
       "tags": [],
       "first_seen": "2026-06-20T02:41:38.244448+00:00"
-    },
-    {
-      "id": "aa2c3a1d54ba2d07",
-      "title": "Group Product Manager, Developer Infrastructure",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8017607?gh_jid=8017607",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-13",
-      "tags": [],
-      "first_seen": "2026-06-19T19:29:37.880567+00:00"
     },
     {
       "id": "a5bcd3c11a11bb4d",
