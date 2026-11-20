@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-20T01:57:57.495395+00:00",
-  "count": 73,
+  "generated_at": "2026-11-20T10:46:39.450039+00:00",
+  "count": 74,
   "jobs": [
+    {
+      "id": "b75d5f4aa1cbfe6c",
+      "title": "Agentic Product Manager",
+      "company": "Netomi",
+      "location": "Gurugram",
+      "url": "https://jobs.lever.co/netomi/a8cc0d22-25b4-48f4-a6b1-0d1fd37bcc84",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-07-02",
+      "tags": [],
+      "first_seen": "2026-11-20T10:46:39.450039+00:00"
+    },
     {
       "id": "357d942313e8ccbe",
       "title": "Product Manager II - DAU Labs",
