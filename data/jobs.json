@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-20T10:46:39.450039+00:00",
-  "count": 74,
+  "generated_at": "2026-11-20T19:28:43.445933+00:00",
+  "count": 67,
   "jobs": [
+    {
+      "id": "927ee5fb70d001a4",
+      "title": "Senior Product Manager, Salesforce CRM",
+      "company": "GitLab",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8855883002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-20",
+      "tags": [],
+      "first_seen": "2026-11-20T19:28:43.445933+00:00"
+    },
     {
       "id": "b75d5f4aa1cbfe6c",
       "title": "Agentic Product Manager",
@@ -553,22 +565,6 @@
       "first_seen": "2026-10-21T19:02:59.522501+00:00"
     },
     {
-      "id": "48c72eea34622b6d",
-      "title": "Director of Product Management and IT Operations",
-      "company": "Self Bill Pro",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-director-of-product-management-and-it-operations-self-bill-pro-1137536",
-      "source": "RemoteOK",
-      "salary": "$130,000\u2013$160,000",
-      "posted": "2026-10-16",
-      "tags": [
-        "product manager",
-        "exec",
-        "infosec"
-      ],
-      "first_seen": "2026-10-17T17:40:46.251672+00:00"
-    },
-    {
       "id": "50c238ba2b3692b3",
       "title": "Product Manager II, Advanced Trade",
       "company": "Coinbase",
@@ -579,22 +575,6 @@
       "posted": "2026-10-30",
       "tags": [],
       "first_seen": "2026-10-14T14:13:58.632415+00:00"
-    },
-    {
-      "id": "d39b33119510b077",
-      "title": "Principal Product Manager Strategic Initiatives",
-      "company": "Thyme Care",
-      "location": "Remote",
-      "url": "https://remoteOK.com/remote-jobs/remote-principal-product-manager-strategic-initiatives-thyme-care-1137510",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-10-13",
-      "tags": [
-        "product manager",
-        "exec",
-        "technical"
-      ],
-      "first_seen": "2026-10-14T08:15:59.274446+00:00"
     },
     {
       "id": "eee3cdb6f5f028cc",
@@ -631,18 +611,6 @@
       "posted": "2026-10-21",
       "tags": [],
       "first_seen": "2026-10-06T12:31:54.345489+00:00"
-    },
-    {
-      "id": "3ce8cff64af618a5",
-      "title": "Senior Product Manager, CRM & GTM Systems",
-      "company": "GitLab",
-      "location": "Remote, United States",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8855883002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-06",
-      "tags": [],
-      "first_seen": "2026-10-02T21:39:35.784675+00:00"
     },
     {
       "id": "00181103dc8020cb",
@@ -705,50 +673,6 @@
       "first_seen": "2026-09-26T18:11:43.597568+00:00"
     },
     {
-      "id": "c7b28620edb06613",
-      "title": "Technical Product Manager AI Stockbroking App",
-      "company": "Bjak",
-      "location": "Germany",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-manager-ai-stockbroking-app-bjak-1137421",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-09-23",
-      "tags": [
-        "product manager",
-        "exec",
-        "design"
-      ],
-      "first_seen": "2026-09-24T02:31:53.252733+00:00"
-    },
-    {
-      "id": "b276441478edac28",
-      "title": "Senior Product Manager, Agentic Source Code",
-      "company": "GitLab",
-      "location": "Remote, Canada; Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8597805002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-06",
-      "tags": [],
-      "first_seen": "2026-09-23T18:45:15.066314+00:00"
-    },
-    {
-      "id": "0369bbb512ec8640",
-      "title": "Senior Growth Product Manager AI Native",
-      "company": "Magic Eden",
-      "location": "Melbourne",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-growth-product-manager-ai-native-magic-eden-1137414",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-09-22",
-      "tags": [
-        "product manager",
-        "marketing",
-        "exec"
-      ],
-      "first_seen": "2026-09-23T02:42:35.818231+00:00"
-    },
-    {
       "id": "608c7b12d450e6f8",
       "title": "Staff Product Manager, Payments Intelligence",
       "company": "Stripe",
@@ -797,22 +721,6 @@
       "first_seen": "2026-09-14T21:14:29.479906+00:00"
     },
     {
-      "id": "4977ac05c099ba6a",
-      "title": "Technical Product Lead AI Finance App",
-      "company": "Bjak",
-      "location": "Seoul",
-      "url": "https://remoteOK.com/remote-jobs/remote-technical-product-lead-ai-finance-app-bjak-1137388",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-09-12",
-      "tags": [
-        "design",
-        "sys admin",
-        "infosec"
-      ],
-      "first_seen": "2026-09-13T17:48:38.019763+00:00"
-    },
-    {
       "id": "dad8f6c58e007b6f",
       "title": "Staff Product Manager, Billing",
       "company": "Stripe",
@@ -859,18 +767,6 @@
       "posted": "2026-11-19",
       "tags": [],
       "first_seen": "2026-07-09T22:15:19.578629+00:00"
-    },
-    {
-      "id": "2bac10ce10226653",
-      "title": "Staff Product Manager,  RevOps & Finance Systems",
-      "company": "GitLab",
-      "location": "Remote, US",
-      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8612937002",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-16",
-      "tags": [],
-      "first_seen": "2026-07-08T13:46:38.583205+00:00"
     },
     {
       "id": "69315883598b1f9d",
