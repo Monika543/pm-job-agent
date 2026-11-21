@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-20T19:28:43.445933+00:00",
-  "count": 67,
+  "generated_at": "2026-11-21T01:53:59.632899+00:00",
+  "count": 69,
   "jobs": [
+    {
+      "id": "ef976cc5081d84d2",
+      "title": "Staff Product Manager, Agentic Ads Buying",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-20",
+      "tags": [],
+      "first_seen": "2026-11-21T01:53:59.632899+00:00"
+    },
+    {
+      "id": "18cf3edc6718f965",
+      "title": "Staff Product Manager, Agentic Ads Buying",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-20",
+      "tags": [],
+      "first_seen": "2026-11-21T01:53:59.632899+00:00"
+    },
     {
       "id": "927ee5fb70d001a4",
       "title": "Senior Product Manager, Salesforce CRM",
@@ -278,7 +302,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8359289",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-18",
+      "posted": "2026-11-20",
       "tags": [],
       "first_seen": "2026-11-07T00:31:51.824787+00:00"
     },
@@ -740,7 +764,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-19",
+      "posted": "2026-11-20",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
