@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-11-21T01:53:59.632899+00:00",
-  "count": 69,
+  "generated_at": "2026-11-21T10:30:17.157744+00:00",
+  "count": 73,
   "jobs": [
+    {
+      "id": "aa6d260891bca7a5",
+      "title": "Product Manager, Ecosystem Relevance",
+      "company": "Reddit",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-ecosystem-relevance-reddit-1137894",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-11-20",
+      "tags": [
+        "product"
+      ],
+      "first_seen": "2026-11-21T10:30:17.157744+00:00"
+    },
+    {
+      "id": "931721d2b4922e08",
+      "title": "Product Manager, AI Foundations",
+      "company": "Reddit",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-ai-foundations-reddit-1137893",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-11-20",
+      "tags": [
+        "product"
+      ],
+      "first_seen": "2026-11-21T10:30:17.157744+00:00"
+    },
+    {
+      "id": "01504ebd9459bad8",
+      "title": "Sr. Product Manager",
+      "company": "6sense",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-product-manager-6sense-1137886",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-11-20",
+      "tags": [
+        "product"
+      ],
+      "first_seen": "2026-11-21T10:30:17.157744+00:00"
+    },
+    {
+      "id": "dc0ac05c58ef2ec4",
+      "title": "Senior Director of Product Management (R14361)",
+      "company": "Oportun",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-director-of-product-management-r14361-oportun-1137885",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-11-20",
+      "tags": [
+        "product"
+      ],
+      "first_seen": "2026-11-21T10:30:17.157744+00:00"
+    },
     {
       "id": "ef976cc5081d84d2",
       "title": "Staff Product Manager, Agentic Ads Buying",
@@ -255,22 +311,6 @@
       "first_seen": "2026-11-10T05:29:23.023974+00:00"
     },
     {
-      "id": "5216e16848c04f37",
-      "title": "Senior Product Manager",
-      "company": "Pencil",
-      "location": "EMEA",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705",
-      "source": "RemoteOK",
-      "salary": null,
-      "posted": "2026-11-08",
-      "tags": [
-        "product manager",
-        "exec",
-        "design"
-      ],
-      "first_seen": "2026-11-09T21:48:04.410277+00:00"
-    },
-    {
       "id": "2483470ee98ac0f2",
       "title": "Senior Product Manager, Payments & TRUST Network",
       "company": "Coinbase",
@@ -292,6 +332,22 @@
       "salary": null,
       "posted": "2026-11-09",
       "tags": [],
+      "first_seen": "2026-11-09T21:48:04.410277+00:00"
+    },
+    {
+      "id": "5216e16848c04f37",
+      "title": "Senior Product Manager",
+      "company": "Pencil",
+      "location": "EMEA",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-product-manager-pencil-1137705",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-11-08",
+      "tags": [
+        "product manager",
+        "exec",
+        "design"
+      ],
       "first_seen": "2026-11-09T21:48:04.410277+00:00"
     },
     {
