@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-11-23T01:17:14.468263+00:00",
-  "count": 73,
+  "generated_at": "2026-11-23T11:35:14.946157+00:00",
+  "count": 74,
   "jobs": [
+    {
+      "id": "d8f886ec3f73e3ed",
+      "title": "Product Manager, Developer Ecosystem",
+      "company": "Reddit",
+      "location": "US Only",
+      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-developer-ecosystem-reddit-1137977",
+      "source": "RemoteOK",
+      "salary": null,
+      "posted": "2026-11-22",
+      "tags": [
+        "product"
+      ],
+      "first_seen": "2026-11-23T11:35:14.946157+00:00"
+    },
     {
       "id": "aa6d260891bca7a5",
       "title": "Product Manager, Ecosystem Relevance",
@@ -270,7 +284,7 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-10",
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-11-10T05:29:23.023974+00:00"
     },
