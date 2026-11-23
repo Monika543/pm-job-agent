@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-23T11:35:14.946157+00:00",
-  "count": 74,
+  "generated_at": "2026-11-23T23:09:51.156207+00:00",
+  "count": 77,
   "jobs": [
+    {
+      "id": "a2ac8670605353fa",
+      "title": "Product Lead, Support Experience",
+      "company": "Stripe",
+      "location": "US - East Coast, New York, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8332341",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-23",
+      "tags": [],
+      "first_seen": "2026-11-23T23:09:51.156207+00:00"
+    },
+    {
+      "id": "710bd9c484f5cd3d",
+      "title": "Product Manager, Infrastructure",
+      "company": "Stripe",
+      "location": "US-Seattle, US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8165265",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-23",
+      "tags": [],
+      "first_seen": "2026-11-23T23:09:51.156207+00:00"
+    },
+    {
+      "id": "3bee066de6ed4dfc",
+      "title": "Senior IT Product Manager, Salesforce CRM",
+      "company": "GitLab",
+      "location": "Remote, United States",
+      "url": "https://job-boards.greenhouse.io/gitlab/jobs/8855883002",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-23",
+      "tags": [],
+      "first_seen": "2026-11-23T23:09:51.156207+00:00"
+    },
     {
       "id": "d8f886ec3f73e3ed",
       "title": "Product Manager, Developer Ecosystem",
@@ -73,18 +109,6 @@
       "first_seen": "2026-11-21T10:30:17.157744+00:00"
     },
     {
-      "id": "ef976cc5081d84d2",
-      "title": "Staff Product Manager, Agentic Ads Buying",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-22",
-      "tags": [],
-      "first_seen": "2026-11-21T01:53:59.632899+00:00"
-    },
-    {
       "id": "18cf3edc6718f965",
       "title": "Staff Product Manager, Agentic Ads Buying",
       "company": "Reddit",
@@ -92,7 +116,19 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-22",
+      "posted": "2026-11-23",
+      "tags": [],
+      "first_seen": "2026-11-21T01:53:59.632899+00:00"
+    },
+    {
+      "id": "ef976cc5081d84d2",
+      "title": "Staff Product Manager, Agentic Ads Buying",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-11-21T01:53:59.632899+00:00"
     },
@@ -224,7 +260,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8367400",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-12",
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-11-13T04:27:37.020012+00:00"
     },
@@ -236,7 +272,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8148055",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-12",
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-11-13T04:27:37.020012+00:00"
     },
@@ -277,18 +313,6 @@
       "first_seen": "2026-11-10T14:02:51.306964+00:00"
     },
     {
-      "id": "e55c0e303e327494",
-      "title": "Product Manager II",
-      "company": "Razorpay",
-      "location": "Bengaluru",
-      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-23",
-      "tags": [],
-      "first_seen": "2026-11-10T05:29:23.023974+00:00"
-    },
-    {
       "id": "9300ccde4467dd87",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -297,6 +321,18 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-09",
+      "tags": [],
+      "first_seen": "2026-11-10T05:29:23.023974+00:00"
+    },
+    {
+      "id": "e55c0e303e327494",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-11-10T05:29:23.023974+00:00"
     },
@@ -344,7 +380,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8331370",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-09",
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-11-09T21:48:04.410277+00:00"
     },
@@ -372,7 +408,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8359289",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-22",
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-11-07T00:31:51.824787+00:00"
     },
@@ -435,7 +471,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8893054002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-06",
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-11-06T01:18:11.797042+00:00"
     },
@@ -579,7 +615,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8894806002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-06",
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-10-23T23:41:37.972657+00:00"
     },
@@ -591,7 +627,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8909618002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-06",
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-10-23T13:58:51.327433+00:00"
     },
@@ -738,7 +774,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8237639",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-23",
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-10-01T20:01:08.754188+00:00"
     },
@@ -810,7 +846,7 @@
       "url": "https://job-boards.greenhouse.io/gitlab/jobs/8806017002",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-06",
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-09-14T21:14:29.479906+00:00"
     },
@@ -834,7 +870,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-22",
+      "posted": "2026-11-23",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
