@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-24T07:49:45.217189+00:00",
-  "count": 76,
+  "generated_at": "2026-11-24T19:50:06.643382+00:00",
+  "count": 77,
   "jobs": [
+    {
+      "id": "66324cb1e7dd8286",
+      "title": "Product Manager II",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8396806?gh_jid=8396806",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-24",
+      "tags": [],
+      "first_seen": "2026-11-24T19:50:06.643382+00:00"
+    },
+    {
+      "id": "6f4a6b605bc41aa3",
+      "title": "Product Manager, Stripe Business Network",
+      "company": "Stripe",
+      "location": "NYC, SSF, SEA, Chicago, Toronto, US-Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=8414351",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-24",
+      "tags": [],
+      "first_seen": "2026-11-24T19:50:06.643382+00:00"
+    },
+    {
+      "id": "16017d85dd0795a9",
+      "title": "Staff Product Manager, GenAI and Agent Foundations",
+      "company": "Stripe",
+      "location": "Seattle, San Francisco, New York, US - Remote",
+      "url": "https://stripe.com/jobs/search?gh_jid=7517535",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-24",
+      "tags": [],
+      "first_seen": "2026-11-24T19:50:06.643382+00:00"
+    },
     {
       "id": "a2ac8670605353fa",
       "title": "Product Lead, Support Experience",
@@ -116,7 +152,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-23",
+      "posted": "2026-11-24",
       "tags": [],
       "first_seen": "2026-11-21T01:53:59.632899+00:00"
     },
@@ -128,7 +164,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-23",
+      "posted": "2026-11-24",
       "tags": [],
       "first_seen": "2026-11-21T01:53:59.632899+00:00"
     },
@@ -325,6 +361,18 @@
       "first_seen": "2026-11-10T05:29:23.023974+00:00"
     },
     {
+      "id": "8cd0949fced213e1",
+      "title": "Product Manager II, Payment Experiences",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-16",
+      "tags": [],
+      "first_seen": "2026-11-10T05:29:23.023974+00:00"
+    },
+    {
       "id": "9300ccde4467dd87",
       "title": "Product Manager II",
       "company": "Razorpay",
@@ -345,18 +393,6 @@
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-09",
-      "tags": [],
-      "first_seen": "2026-11-10T05:29:23.023974+00:00"
-    },
-    {
-      "id": "8cd0949fced213e1",
-      "title": "Product Manager II, Payment Experiences",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8356842?gh_jid=8356842",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-16",
       "tags": [],
       "first_seen": "2026-11-10T05:29:23.023974+00:00"
     },
@@ -408,7 +444,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8359289",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-23",
+      "posted": "2026-11-24",
       "tags": [],
       "first_seen": "2026-11-07T00:31:51.824787+00:00"
     },
@@ -644,21 +680,6 @@
       "first_seen": "2026-10-23T13:58:51.327433+00:00"
     },
     {
-      "id": "0f0165797b0cf5dd",
-      "title": "PM role(s) spotted: Product Manager",
-      "company": "Jumbotail",
-      "location": "See careers page",
-      "url": "https://www.jumbotail.com/careers",
-      "source": "Page watcher",
-      "salary": null,
-      "posted": null,
-      "tags": [
-        "careers page",
-        "verify on site"
-      ],
-      "first_seen": "2026-10-22T14:15:22.133092+00:00"
-    },
-    {
       "id": "5134e28b3a181424",
       "title": "Product Manager II",
       "company": "Meesho",
@@ -858,7 +879,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-23",
+      "posted": "2026-11-24",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
@@ -873,18 +894,6 @@
       "posted": "2026-06-29",
       "tags": [],
       "first_seen": "2026-07-27T06:20:37.301841+00:00"
-    },
-    {
-      "id": "6a4a08d14c07374c",
-      "title": "Staff Product Manager, ML Foundations and GenAI",
-      "company": "Stripe",
-      "location": "Seattle, San Francisco, New York, US - Remote",
-      "url": "https://stripe.com/jobs/search?gh_jid=7517535",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-19",
-      "tags": [],
-      "first_seen": "2026-07-09T22:15:19.578629+00:00"
     },
     {
       "id": "69315883598b1f9d",
