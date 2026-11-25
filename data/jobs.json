@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-25T03:53:32.114664+00:00",
-  "count": 79,
+  "generated_at": "2026-11-25T16:35:16.011745+00:00",
+  "count": 81,
   "jobs": [
+    {
+      "id": "ed1b77af56b882fa",
+      "title": "Product Manager II - AI",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4750360005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-25",
+      "tags": [],
+      "first_seen": "2026-11-25T16:35:16.011745+00:00"
+    },
+    {
+      "id": "a45746a5f03541c0",
+      "title": "Product Manager II, Prime Onchain",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8396806?gh_jid=8396806",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-25",
+      "tags": [],
+      "first_seen": "2026-11-25T16:35:16.011745+00:00"
+    },
     {
       "id": "2189cd5cf14a21a5",
       "title": "Senior Product Manager",
@@ -30,18 +54,6 @@
       "first_seen": "2026-11-25T03:53:32.114664+00:00"
     },
     {
-      "id": "66324cb1e7dd8286",
-      "title": "Product Manager II",
-      "company": "Coinbase",
-      "location": "Remote - USA",
-      "url": "https://www.coinbase.com/careers/positions/8396806?gh_jid=8396806",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-24",
-      "tags": [],
-      "first_seen": "2026-11-24T19:50:06.643382+00:00"
-    },
-    {
       "id": "6f4a6b605bc41aa3",
       "title": "Product Manager, Stripe Business Network",
       "company": "Stripe",
@@ -59,6 +71,18 @@
       "company": "Stripe",
       "location": "Seattle, San Francisco, New York, US - Remote",
       "url": "https://stripe.com/jobs/search?gh_jid=7517535",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-24",
+      "tags": [],
+      "first_seen": "2026-11-24T19:50:06.643382+00:00"
+    },
+    {
+      "id": "66324cb1e7dd8286",
+      "title": "Product Manager II",
+      "company": "Coinbase",
+      "location": "Remote - USA",
+      "url": "https://www.coinbase.com/careers/positions/8396806?gh_jid=8396806",
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-24",
@@ -172,18 +196,6 @@
       "first_seen": "2026-11-21T10:30:17.157744+00:00"
     },
     {
-      "id": "18cf3edc6718f965",
-      "title": "Staff Product Manager, Agentic Ads Buying",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-24",
-      "tags": [],
-      "first_seen": "2026-11-21T01:53:59.632899+00:00"
-    },
-    {
       "id": "ef976cc5081d84d2",
       "title": "Staff Product Manager, Agentic Ads Buying",
       "company": "Reddit",
@@ -191,7 +203,19 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-24",
+      "posted": "2026-11-25",
+      "tags": [],
+      "first_seen": "2026-11-21T01:53:59.632899+00:00"
+    },
+    {
+      "id": "18cf3edc6718f965",
+      "title": "Staff Product Manager, Agentic Ads Buying",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-25",
       "tags": [],
       "first_seen": "2026-11-21T01:53:59.632899+00:00"
     },
@@ -383,7 +407,7 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4751768005",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-23",
+      "posted": "2026-11-25",
       "tags": [],
       "first_seen": "2026-11-10T05:29:23.023974+00:00"
     },
@@ -471,7 +495,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8359289",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-24",
+      "posted": "2026-11-25",
       "tags": [],
       "first_seen": "2026-11-07T00:31:51.824787+00:00"
     },
@@ -582,7 +606,7 @@
       "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4727236005",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-05",
+      "posted": "2026-11-25",
       "tags": [],
       "first_seen": "2026-11-04T10:14:48.630214+00:00"
     },
@@ -906,7 +930,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-24",
+      "posted": "2026-11-25",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
