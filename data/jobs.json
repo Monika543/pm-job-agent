@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-26T11:45:11.217457+00:00",
-  "count": 82,
+  "generated_at": "2026-11-26T20:46:02.430314+00:00",
+  "count": 83,
   "jobs": [
+    {
+      "id": "5988ae8dc08b187f",
+      "title": "Kirana Club : Product Manager II - Commerce",
+      "company": "Meesho",
+      "location": "Bangalore, Karnataka",
+      "url": "https://jobs.lever.co/meesho/bb950ba6-dd50-4caf-9c52-00d5168a59a5",
+      "source": "Lever",
+      "salary": null,
+      "posted": "2026-11-18",
+      "tags": [],
+      "first_seen": "2026-11-26T20:46:02.430314+00:00"
+    },
     {
       "id": "a8c3bab470c5219d",
       "title": "Product Manager II",
@@ -220,11 +232,11 @@
       "first_seen": "2026-11-21T10:30:17.157744+00:00"
     },
     {
-      "id": "18cf3edc6718f965",
+      "id": "ef976cc5081d84d2",
       "title": "Staff Product Manager, Agentic Ads Buying",
       "company": "Reddit",
       "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-25",
@@ -232,11 +244,11 @@
       "first_seen": "2026-11-21T01:53:59.632899+00:00"
     },
     {
-      "id": "ef976cc5081d84d2",
+      "id": "18cf3edc6718f965",
       "title": "Staff Product Manager, Agentic Ads Buying",
       "company": "Reddit",
       "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-25",
