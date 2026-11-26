@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-26T01:23:23.414689+00:00",
-  "count": 81,
+  "generated_at": "2026-11-26T11:45:11.217457+00:00",
+  "count": 82,
   "jobs": [
+    {
+      "id": "a8c3bab470c5219d",
+      "title": "Product Manager II",
+      "company": "Razorpay",
+      "location": "Bengaluru",
+      "url": "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4715389005",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-25",
+      "tags": [],
+      "first_seen": "2026-11-26T11:45:11.217457+00:00"
+    },
     {
       "id": "0383c3e9acc6176b",
       "title": "Senior Product Manager, Workforce Management",
@@ -208,11 +220,11 @@
       "first_seen": "2026-11-21T10:30:17.157744+00:00"
     },
     {
-      "id": "ef976cc5081d84d2",
+      "id": "18cf3edc6718f965",
       "title": "Staff Product Manager, Agentic Ads Buying",
       "company": "Reddit",
       "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-25",
@@ -220,11 +232,11 @@
       "first_seen": "2026-11-21T01:53:59.632899+00:00"
     },
     {
-      "id": "18cf3edc6718f965",
+      "id": "ef976cc5081d84d2",
       "title": "Staff Product Manager, Agentic Ads Buying",
       "company": "Reddit",
       "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-25",
