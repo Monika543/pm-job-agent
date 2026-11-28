@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T15:54:59.021034+00:00",
+  "generated_at": "2026-11-28T00:55:21.079837+00:00",
   "count": 83,
   "jobs": [
     {
@@ -232,18 +232,6 @@
       "first_seen": "2026-11-21T10:30:17.157744+00:00"
     },
     {
-      "id": "18cf3edc6718f965",
-      "title": "Staff Product Manager, Agentic Ads Buying",
-      "company": "Reddit",
-      "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
-      "source": "Greenhouse",
-      "salary": null,
-      "posted": "2026-11-26",
-      "tags": [],
-      "first_seen": "2026-11-21T01:53:59.632899+00:00"
-    },
-    {
       "id": "ef976cc5081d84d2",
       "title": "Staff Product Manager, Agentic Ads Buying",
       "company": "Reddit",
@@ -251,7 +239,19 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-26",
+      "posted": "2026-11-27",
+      "tags": [],
+      "first_seen": "2026-11-21T01:53:59.632899+00:00"
+    },
+    {
+      "id": "18cf3edc6718f965",
+      "title": "Staff Product Manager, Agentic Ads Buying",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
+      "source": "Greenhouse",
+      "salary": null,
+      "posted": "2026-11-27",
       "tags": [],
       "first_seen": "2026-11-21T01:53:59.632899+00:00"
     },
@@ -531,7 +531,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8359289",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-26",
+      "posted": "2026-11-27",
       "tags": [],
       "first_seen": "2026-11-07T00:31:51.824787+00:00"
     },
@@ -954,7 +954,7 @@
       "url": "https://job-boards.greenhouse.io/reddit/jobs/8075185",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-11-26",
+      "posted": "2026-11-27",
       "tags": [],
       "first_seen": "2026-08-06T23:52:08.792183+00:00"
     },
