@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T00:55:21.079837+00:00",
+  "generated_at": "2026-11-28T11:12:58.187460+00:00",
   "count": 83,
   "jobs": [
     {
@@ -232,11 +232,11 @@
       "first_seen": "2026-11-21T10:30:17.157744+00:00"
     },
     {
-      "id": "ef976cc5081d84d2",
+      "id": "18cf3edc6718f965",
       "title": "Staff Product Manager, Agentic Ads Buying",
       "company": "Reddit",
       "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-27",
@@ -244,11 +244,11 @@
       "first_seen": "2026-11-21T01:53:59.632899+00:00"
     },
     {
-      "id": "18cf3edc6718f965",
+      "id": "ef976cc5081d84d2",
       "title": "Staff Product Manager, Agentic Ads Buying",
       "company": "Reddit",
       "location": "Remote - United States",
-      "url": "https://job-boards.greenhouse.io/reddit/jobs/8400056",
+      "url": "https://job-boards.greenhouse.io/reddit/jobs/8407162",
       "source": "Greenhouse",
       "salary": null,
       "posted": "2026-11-27",
@@ -918,7 +918,7 @@
       "url": "https://www.coinbase.com/careers/positions/8204571?gh_jid=8204571",
       "source": "Greenhouse",
       "salary": null,
-      "posted": "2026-10-30",
+      "posted": "2026-11-28",
       "tags": [],
       "first_seen": "2026-09-15T18:38:36.864289+00:00"
     },
